@@ -2,55 +2,75 @@
  Module 1 Assignment -->
 
 # Module 1 Assignment
-Focused Case Study: Ripple Labs Inc 
+Author: [Bruno Ivasic](www.linkedin.com/in/bruno-i-81435712)
 
-The University of Sydney Fintech Bootcamp
+Course: FinTech Boot Camp at the University of Sydney
 
-Instructor Nicholas Creed
+Date: 31 August 2023
 
+## Introduction
+The scope of this assignment is to write a focused case study using markdown on a company in the Fintech domain.
 
+The author has chosen to write about [Ripple Labs Inc.](https://ripple.com/) which has solutions in the payments, crypto and blockchain domains.
 
-
-
-The University of Sydney</br>list 2 </p>
-<p style="text-align: center;">Fintech Bootcamp</p>
-<p style="text-align: center;">Bruno Ivasic</p>
-<p style="text-align: center;">Nicholas Creed</p>
-<p style="text-align: center;">August 31, 2023</p>
-
-<!-- Relying on GitHub to automatically generate table of contents -->
-
-
-# Quick Facts
-
-Name | Ripple Labs Inc. ("Ripple")
------------- | -------------
-Established | September 2012
-HQ Location | San Francisco, USA
-Employees | 1,122[^LinkedIn]
-Website | https://ripple.com/
-Founders | David Schwartz, Jed McCaleb, and Arthur Britto, followed by Chris Larsen in 18 December 2012.
-Mission | Building breakthrough crypto solutions for a world without economic borders.
-Goal |  Working on real world problems to solve for moving value at the speed of information.
-Pitch | Ripple's business soltions are faster, more transparent, more cost effective, and solving inefficiencies that have really long plagued and defined the status quo.
-Market Cap. | ???
-Revenue | ???
-Other measures of crypto | ???
+> Move, manage and tokenize value with Ripple's crypto and blockchain solutions.
 
 # Overview and Origin
-
-
-<!--
 
 - [x] What is the name of the company?
 - [x] When was the company incorporated?
 - [x] Who are the founders of the company?
 - [ ] How did the idea for the company (or project) come about?
 - [ ] How is the company funded? How much funding have they received?
--->
+
+
+Name | Ripple Labs Inc. ("Ripple")
+:------------ | :-------------
+Established | September 2012 in San Francisco, USA
+Founders | David Schwartz, Jed McCaleb, and Arthur Britto, followed by Chris Larsen later in the same year.
+Employees | 1,122[^LinkedIn]
+Origin | In early 2011, three developers—David Schwartz, Jed McCaleb, and Arthur Britto—were fascinated with Bitcoin but observed the waste inherent in mining. They sought to create a more sustainable system for sending value \(an idea outlined in a May 2011 forum post: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0)\)[^Bitcoin_Talk].
+Funding | ddd
+
+Market Cap. | ???
+Revenue | ???
+Other measures of crypto | ???
+
+
+## Business Activities:
+
+- [ ] What specific financial problem is the company or project trying to solve?
+- [ ] Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+- [ ] What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+- [ ] Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+
+Mission | Building breakthrough crypto solutions for a world without economic borders.
+
+
+
+## Landscape:
+
+- [ ] What domain of the financial industry is the company in?
+- [ ] What have been the major trends and innovations of this domain over the last 5-10 years?
+- [ ]  What are the other major companies in this domain?
+
+## Results
+
+- [ ]  What has been the business impact of this company so far?
+- [ ]  What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+- [ ]  How is your company performing relative to competitors in the same domain?
+
+## Recommendations
+
+- [ ] If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+- [ ] Why do you think that offering this product or service would benefit the company?
+- [ ] What technologies would this additional product or service utilize?
+- [ ] Why are these technologies appropriate for your solution?
 
 
 ### Incorporation
+
 The entity was initially incorporated as "NewCoin Inc."[^SoS-NewCoin] on 19 September 2012, then renamed to "OpenCoin Inc."[^SoS-OpenCoin] on 3 October 2012, and finally renamed to "Ripple Labs Inc."[^SoS-Ripple] on 18 October 2013.
 
 ### Founders
