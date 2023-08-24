@@ -11,7 +11,9 @@ Date: 31 August 2023
 ## Introduction
 The scope of this assignment is to write a focused case study using markdown on a company in the Fintech domain.
 
-The author has chosen to write about [Ripple Labs Inc.](https://ripple.com/) which has solutions in the payments, crypto and blockchain domains.
+I chose to write about [Ripple Labs Inc.](https://ripple.com/) which has working solutions in the payments, crypto and blockchain domains.
+
+I also chose to adopt markdown best practices as outlined on [markdownguide.org](https://www.markdownguide.org) and avoid use of HTML.
 
 > Move, manage and tokenize value with Ripple's crypto and blockchain solutions.
 
@@ -36,6 +38,7 @@ Market Cap. | ???
 Revenue | ???
 Other measures of crypto | ???
 
+[!["What is Ripple? XRP Explained with Animations" - Whiteboard Crypto Youtube Channel](https://img.youtube.com/vi/dlxYUQIMzqo/0.jpg)](https://www.youtube.com/watch?v=dlxYUQIMzqo)
 
 ## Business Activities:
 
@@ -248,6 +251,8 @@ https://crypto.news/learn/who-is-ripple-labs/
 
 [^LinkedIn]: About Ripple. \(n.d.\). LinkedIn. Retrieved August 20, 2023, from https://www.linkedin.com/company/rippleofficial/about/
 
+
+[!["What is Ripple? XRP Explained with Animations" - Whiteboard Crypto Youtube Channel](https://img.youtube.com/vi/dlxYUQIMzqo/0.jpg)](https://www.youtube.com/watch?v=dlxYUQIMzqo)
 ---
 
 # INSTRUCTIONS - REMOVE BEFORE SUMITTING
