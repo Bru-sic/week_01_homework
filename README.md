@@ -78,8 +78,9 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+  
   In addition to the XRP Ledger, 
-
+HERE BRU
 
 
 ## Landscape:
@@ -124,6 +125,9 @@ Compound Annual Growth Rate.
 [^AboutRipple]: [ Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
 
 [^CryptoFS]: [Ripple Labs Inc. (2021) "An introduction to Cryptocurrency"](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
+
+
+[^RippleFAQ]: [Ripple Labs Inc. Frequently Asked Questions](https://ripple.com/faq/)
 
 [^CrunchBase]: [Crunchbase Inc. - Ripple Financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
