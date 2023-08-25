@@ -57,10 +57,10 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   1. Liquidity management
   1. Transparency
 
-  With RippleNet, customers can quickly access new markets, expand their services and deliver the best customer experience in global payments today. With a single connection, customers can access the best blockchain technology for global payments, payout capabilities in over 40 currencies, On-Demand Liquidity as an alternative to pre-funding and operational consistency through a common rulebook.
+  With RippleNet, customers can quickly access new markets, expand their services and deliver the best customer experience in global payments today. With a single connection, customers can access the best blockchain technology for global payments, payout capabilities in over 40 currencies, On-Demand Liquidity as an alternative to pre-funding and operational consistency through a common rulebook.[^RippleFAQ]
 
   Table 2 provides a further comparison of XRP's technology with other prominent cryptocurrencies, highlighting that XRP has been desgigned with payments, speed, throughput and efficiency in mind. 
-  
+
   | Cryptocurrency / Blockchain | Bitcoin\/Bitcoin | Ether/Ethereum |	XRP/XRP Ledger|
   |:---| :---| :--- | :--- |
   |Key Use  | Store of Value   |Smart Contracts  |  Payments |
@@ -73,12 +73,12 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   Kohli et al[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies - in the case of BitCoin, up to 100,000 times more efficient, although there are other cryptocurrencies such as Hedera which are even more efficient than XRP.
 
 		
-  ![Figure 2: Energy consumption per transaction for various cryptocurrencies \(and their consensus mechanisms\)](./assets/1-s2.0-S2352864822001390-gr6.jpg)   
-  ***Figure 2:*** Energy consumption per transaction for various cryptocurrencies \(and their consensus mechanisms\). Source: Kohli et al (2023)[^Kohli-2023]
+   ![Figure 2: Energy consumption per transaction for various cryptocurrencies \(and their consensus mechanisms\)](./assets/crypto-energy-consumption.jpg)   
+   ***Figure 2:*** Energy consumption per transaction for various cryptocurrencies \(and their consensus mechanisms\). Source: Kohli et al (2023)[^Kohli-2023]
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-  In addition to Ripple uses of course XRPL.
+  In addition to the XRP Ledger, 
 
 
 
@@ -135,6 +135,6 @@ Compound Annual Growth Rate.
 
 [^SoS-Ripple]: [Californian Secretary of State filing - amendment to Ripple Inc dated (18/10/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/076031074160242065134127075129213240171193013106)
 
-[^traxn]: [Tracxn (n.d.) Ripple Founders](https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors)
+[^traxn]: [Tracxn \(n.d.\) Ripple Founders](https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors)
 
-[^Kohli-2023]: [Kohli V. et al, (2023) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
+[^Kohli-2023]: [Kohli V. et al, \(2023\) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
