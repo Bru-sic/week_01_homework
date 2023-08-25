@@ -20,7 +20,7 @@ Chris Larsen and Jed McCaleb co-founded the company[^tracxn].
 
 
 * *How is the company funded? How much funding have they received?*   
-According to [CrunchBase](https://www.crunchbase.com/organization/ripple-labs/company_financials), Ripple has raised a total of $293.8M in funding over 14 rounds between May 2015 to August 2021 from 43 investors.
+    Ripple has raised a total of $293.8M in funding over 14 rounds between May 2015 to August 2021 from 43 different investors.[^CrunchBase]
 
 ## Business Activities:
 
@@ -124,6 +124,8 @@ Compound Annual Growth Rate.
 [^AboutRipple]: [ Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
 
 [^CryptoFS]: [Ripple Labs Inc. (2021) "An introduction to Cryptocurrency"](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
+
+[^CrunchBase]: [Crunchbase Inc. - Ripple Financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
 
 [^Bitcoin_Talk]: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0)
