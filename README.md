@@ -126,6 +126,7 @@ Compound Annual Growth Rate.
 [^CryptoFS]: [Ripple Labs Inc. (2021) "An introduction to Cryptocurrency"](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
 
 
+[^Bitcoin_Talk]: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0)
 
 [^EYFlows]: [Ernst &amp; Young Global Ltd. (2021) "How new entrants are redefining cross-border payments"](https://www.ey.com/en_au/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments)
 
@@ -135,6 +136,6 @@ Compound Annual Growth Rate.
 
 [^SoS-Ripple]: [Californian Secretary of State filing - amendment to Ripple Inc dated (18/10/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/076031074160242065134127075129213240171193013106)
 
-[^traxn]: [Tracxn \(n.d.\) Ripple Founders](https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors)
+[^tracxn]: [Tracxn \(n.d.\) Ripple Founders](https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors)
 
 [^Kohli-2023]: [Kohli V. et al, \(2023\) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
