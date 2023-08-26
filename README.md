@@ -79,23 +79,92 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
    ***Figure 2:*** Energy consumption per transaction for various cryptocurrencies \(and their consensus mechanisms\). Source: Kohli et al (2023)[^Kohli-2023]
 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*
   
-  In addition to the XRP Ledger, 
-HERE BRU
+  [Stackshare](https://stackshare.io/ripple/ripple)[^StackShare] indicates Ripple uses the following technologies:
+
+  <details open>
+    <summary>Application and Data</summary>
+
+    * Amazon S3   
+    * Amazon EC2   
+    * ES6   
+    * HTML5   
+    * Google Drive   
+    * Java   
+    * JavaScript   
+    * jQuery   
+    * Kafka   
+    * NGINX   
+    * PostgreSQL   
+    * RabbitMQ      
+    * React   
+    * Redis   
+    * TypeScript   
+  </details>
+
+    <details open>
+    <summary>Utilities</summary>
+
+    * Google Analytics   
+    </details>
+
+
+    <details open>
+    <summary>Utilities</summary>
+
+    * Babel   
+    * Docker   
+    * GitHub   
+    * Jenkins   
+    </details>
+
+
+    <details open>
+    <summary>Utilities</summary>
+
+    * Confluence   
+    * G Suite   
+    * Jira   
+    * Slack   
+    * WordPress   
+    </details>
+
+In addition, the [XRP Ledger](https://xrpl.org/software-ecosystem.html) is also used. 
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* *What domain of the financial industry is the company in?*  
+  Ripple operates in payments, crypto currency and blockchain domains.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* *What have been the major trends and innovations of this domain over the last 5-10 years?*  
+  
+In crypto and blockchain domains, interest has been growing for use of blockchain in applications besides cybercurrency since 2016. The trend continues as new use cases emerge, including voting, real estate, fitness tracking, intellectual rights, the internet of things and vaccine distribution. In addition, technological barriers were reduced when multiple cloud providers began offering "blockchain as a service".[^TechTarget]
 
-* What are the other major companies in this domain?
+Trends in payments[^RBA2020] over the last 5 to 10 years include:  
+  * Faster domestic payments (PAYId, Osko, NPP), facilitating straight through processing
+  * Buy Now Pay Later (BNPL)
+  * Mobile device tap and go
+  * Crypto currencies
+  * Blockchain (for example XRP) as digital currencies and expedited payments
+  * A decline in cash transactions in favour of digital 
 
+* *What are the other major companies in this domain?*  
+   Other blockchain platform companies include[^Gartner]:
+   * IBM Blockchain
+   * Ethereum
+   * Stellar
+   * Oracle Blockchain Cloud Service
+   * Swirlds
+   * Tangle
+   * Bitcoin
+   * Quorum
+
+  
 ## Results
 
-* What has been the business impact of this company so far?
+* *What has been the business impact of this company so far?*
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -147,7 +216,7 @@ Central Bank Digital Currency.
 
 
 ## References
-[^RippleAbout]: [ Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
+[^RippleAbout]: [Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
 
 [^RippleCryptoIntro]: [Ripple Labs Inc. (2021) "An introduction to Cryptocurrency"](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
 
@@ -160,7 +229,7 @@ Central Bank Digital Currency.
 
 [^EYFlows]: [Ernst &amp; Young Global Ltd. (2021) "How new entrants are redefining cross-border payments"](https://www.ey.com/en_au/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments)
 
-[^SoS-NewCoin]: [Californian Secretary of State filing - incorporation of NewCoin Inc (19/9/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/187089170177186059061179244045225015102149150023)
+[^SoS-NewCoin]: [Californian Secretary of State filing - incorporation of NewCoin Inc (19/09/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/187089170177186059061179244045225015102149150023)
 
 [^SoS-OpenCoin]: [Californian Secretary of State filing - amendment to OpenCoin Inc (3/10/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/116067222226235006001172039135168044050121032046)
 
@@ -170,4 +239,11 @@ Central Bank Digital Currency.
 
 [^Kohli-2023]: [Kohli V. et al, \(2023\) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
 
+[^Stackshare]: [Ripple profile on stackshare.io (26/08/2023](https://stackshare.io/ripple/ripple)
 
+[^RBA2020]: [Reserve Bank of Australia (2020) "Payments System Board Annual Report – 2020
+Trends in Payments, Clearing and Settlement Systems"](https://www.rba.gov.au/publications/annual-reports/psb/2020/trends-in-payments-clearing-and-settlement-systems.html)
+
+[^TechTarget]: [Sheldon R. "A timeline and history of blockchain technology" (9/09/2021)](https://www.techtarget.com/whatis/feature/A-timeline-and-history-of-blockchain-technology)
+
+[^Gartner]: [Gartner "Ripple Alternatives" (2023)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/alternatives)
