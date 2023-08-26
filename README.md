@@ -1,25 +1,5 @@
 # Ripple Labs - Case Study
 
-<!-- Styling to adjust table heading row colour and centered vertical alignment -->
-<style>
-        table {
-            border: 2px solid #7F7F7F;
-        }
-        th {
-            color: white;
-            background: black;
-        }
-        td {
-            vertical-align: center;
-        }
-        h6.td {
-            margin: 0;
-            padding: 0;
-            color: red;
-         }
-</style>
-
-
 ## Overview and Origin
 
 * *Name of company*   
@@ -134,13 +114,27 @@ HERE BRU
 
 # Appendix
 
-
-
 ## Glossary
+
+<!-- Mouse-over feature: For the convenience of the reader glossary definitions appear when the mouse is placed (hovered) over a term in the narrative, which is not possible using basic or enhanced markdown language. To achieve this a few techniques have been borrowed from HTML and CSS.
+
+The h6 HTML class was (forced to be) used since markdown title (using #) within a markdown table isn't recognised as a title e.g. | # MyTitle  |, which is needed in order to place an anchor in the narrative text.  Although the h6 solves one problem it introduced another. H6 style is inconsistent with table data cell (td) style causing the text in the Term column to be lower than the text in the Definition column. 
+
+The following css ensures the h6 Term and the definition are aligned when rendered. -->
+
+<style>
+  td { margin-top: 0em; vertical-align: baseline; }
+  h6.glossary { margin-top: 0em; vertical-align: baseline; }
+</style>
+
+
 | Term | Definition |
 | :--- | :--- |
-|<h6>CAGR</h6> | Compound Annual Growth Rate. |
-
+|<h6 class="glossary">B2B</h6> | Business to Business. |
+|<h6 class="glossary">B2C</h6> | Business to Consumer. |
+|<h6 class="glossary">C2B</h6> | Consumer to Business. |
+|<h6 class="glossary">C2C</h6> | Consumer to Consumer. |
+|<h6 class="glossary">CAGR</h6> | Compound Annual Growth Rate. |
 
 ## References
 [^RippleAbout]: [ Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
