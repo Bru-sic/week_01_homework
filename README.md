@@ -37,14 +37,14 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   * [MoneyMatch: Offering lower-cost remittances](https://ripple.com/customer-case-study/moneymatch/)
 
 * *Is there any information about the market size of this set of customers?*   
-  The total global cross-border payment flow is growing around 5% [CAGR][^CAGR] a year and tipped to top US$156 trillion by 2022, according to EY[^EYFlows]. Within this total:
+  In 2021, Ernest &amp; Young[^EYFlows] estimated the total global cross-border payment flow to exceed US$156 trillion by 2022, with a compound annual growth rate \([CAGR](#cagr)\) of 5%, segmented as follows:
 
     | Segment | Value | Notes |
     | :--- | :---: | :--- |
     |Business-to-Business (B2B)| US$150t |Transactions make up the largest share by far.|
     |Consumer-to-Business (C2B)| US$2.8t |Cross-border e-commerce and offline tourism spend.|
-    | Business-to-Consumer (B2C)| US$1.6t |Wage salaries or interest payments.|
-    |Consumer-to-Consumer (C2C)|US$0.8t| Remittance payments|
+    |Business-to-Consumer (B2C)| US$1.6t |Wage salaries or interest payments.|
+    |Consumer-to-Consumer (C2C)| US$0.8t | Remittance payments.|
 
     ***Table 1:*** Predicted global cross-border payment flow by segment.[^EYFlows]
 
@@ -112,15 +112,9 @@ HERE BRU
 
 # Appendix
 ## Glossary
-
-
-## CAGR
-Compound Annual Growth Rate.
-
-[^CAGR]: <#cagr> "Compound Annual Growth Rate"
-
----
-
+| Term | Definition |
+| :--- | :--- |
+| <h4>CAGR</h4> | Compound Annual Growth Rate. |
 
 
 ## References
