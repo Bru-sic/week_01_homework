@@ -31,13 +31,13 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
    * Central Bank Digital Currency: Implement CBDCs
 
 * *Who is the company's intended customer?*   
-  Ripple is mainly targetting business customers[^AboutRipple] such as banks and financial institutions. Case studies are presented from Ripple's website on:  
+  Ripple is mainly targeting business customers[^RippleAbout] such as banks and financial institutions, that in turn use Ripple solutions for various types of consumers. Some examples of these include:  
   * [Siam Commercial Bank: Enabling better payouts](https://ripple.com/customer-case-study/scb/)  
   * [Nium: Eliminating prefunding](https://ripple.com/customer-case-study/nium/)
   * [MoneyMatch: Offering lower-cost remittances](https://ripple.com/customer-case-study/moneymatch/)
 
 * *Is there any information about the market size of this set of customers?*   
-  The total global cross-border payment flow is growing around 5% [CAGR](#cagr) a year and tipped to top US$156 trillion by 2022, according to EY[^EYFlows]. Within this total:
+  The total global cross-border payment flow is growing around 5% [CAGR][^CAGR] a year and tipped to top US$156 trillion by 2022, according to EY[^EYFlows]. Within this total:
 
     | Segment | Value | Notes |
     | :--- | :---: | :--- |
@@ -51,15 +51,15 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
     ![Figure 1: Global cross-border payments flows split by use case](./assets/EY-cross-boarder-payment-flows-predicted-growth.jpg)
     ***Figure 1:*** Global cross-border payments flows split by use case[^EYFlows]
 
-* *What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*
-  Ripple aims to distrupt the status quo of cross-border payments. Through the use of blockchain and modern APIs, Ripple enables financial institutions who are part of the network "RippleNet" to send money globally, instantly, reliably and for fractions of a penny. Being part of RippleNet solves three key issues with payments:
+* *What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*   
+  Ripple aims to disrupt the status quo of cross-border payments. Through the use of blockchain and modern APIs, Ripple enables financial institutions who are part of the network "RippleNet" to send money globally, instantly, reliably and for fractions of a penny. Being part of RippleNet solves three key issues with payments:
   1. Speed and certainty
   1. Liquidity management
   1. Transparency
 
   With RippleNet, customers can quickly access new markets, expand their services and deliver the best customer experience in global payments today. With a single connection, customers can access the best blockchain technology for global payments, payout capabilities in over 40 currencies, On-Demand Liquidity as an alternative to pre-funding and operational consistency through a common rulebook.[^RippleFAQ]
 
-  Table 2 provides a further comparison of XRP's technology with other prominent cryptocurrencies, highlighting that XRP has been desgigned with payments, speed, throughput and efficiency in mind. 
+  Table 2 provides a further comparison of XRP's technology with other prominent cryptocurrencies, highlighting that XRP has been designed with payments, speed, throughput and efficiency in mind. 
 
   | Cryptocurrency / Blockchain | Bitcoin\/Bitcoin | Ether/Ethereum |	XRP/XRP Ledger|
   |:---| :---| :--- | :--- |
@@ -68,7 +68,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   |Cost per Transaction (US$)  | $0.465 | $9.00 | $0.0002 |
   |Transactions Per Second | 5 | 10 | 1,500 \(max\)|
 
-  ***Table 2:*** Approximative Comparison of Different Cryptocurrencies[^CryptoFS]
+  ***Table 2:*** Approximative Comparison of Different Cryptocurrencies[^RippleCryptoIntro]
   
   Kohli et al[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies - in the case of BitCoin, up to 100,000 times more efficient, although there are other cryptocurrencies such as Hedera which are even more efficient than XRP.
 
@@ -110,7 +110,9 @@ HERE BRU
 * Why are these technologies appropriate for your solution?
 
 
-# Glossary
+# Appendix
+## Glossary
+
 
 ## CAGR
 Compound Annual Growth Rate.
@@ -122,10 +124,9 @@ Compound Annual Growth Rate.
 
 
 ## References
-[^AboutRipple]: [ Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
+[^RippleAbout]: [ Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
 
-[^CryptoFS]: [Ripple Labs Inc. (2021) "An introduction to Cryptocurrency"](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
-
+[^RippleCryptoIntro]: [Ripple Labs Inc. (2021) "An introduction to Cryptocurrency"](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
 
 [^RippleFAQ]: [Ripple Labs Inc. Frequently Asked Questions](https://ripple.com/faq/)
 
