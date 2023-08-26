@@ -1,4 +1,15 @@
 # Ripple Labs - Case Study
+<!-- Styling to adjust table heading row colour and centered vertical alignment -->
+<style>
+        th {
+            color: white;
+            background: black;
+        }
+        td {
+            vertical-align: center;
+        }
+        td.h6 { }
+</style>
 
 ## Overview and Origin
 
@@ -37,9 +48,8 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   * [MoneyMatch: Offering lower-cost remittances](https://ripple.com/customer-case-study/moneymatch/)
 
 * *Is there any information about the market size of this set of customers?*   
-  In 2021, Ernest &amp; Young[^EYFlows] estimated the total global cross-border payment flow to exceed US$156 trillion by 2022, with a <a title="compound annual growth rate" href=".">CAGR</a> of 5%, segmented as follows:
+  In 2021, Ernest &amp; Young[^EYFlows] estimated the total global cross-border payment flow to exceed US$156 trillion by 2022, with a <a title="Compound Annual Growth Rate" href="#cagr">CAGR</a> of 5%, segmented as follows:
 
-<a title="This week’s events" href="events/2003/20031027t1722z001.htm">More</a>
 
     | Segment | Value | Notes |
     | :--- | :---: | :--- |
@@ -144,13 +154,4 @@ HERE BRU
 
 [^Kohli-2023]: [Kohli V. et al, \(2023\) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
 
-<!-- Styling to adjust table heading row colour and centered vertical alignment -->
-<style>
-        th {
-            color: white;
-            background: black;
-        }
-        td {
-            vertical-align: center;
-        }
-</style>
+
