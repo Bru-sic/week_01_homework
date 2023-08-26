@@ -120,11 +120,14 @@ HERE BRU
 
 The h6 HTML class was (forced to be) used since markdown title (using #) within a markdown table isn't recognised as a title e.g. | # MyTitle  |, which is needed in order to place an anchor in the narrative text.  Although the h6 solves one problem it introduced another. H6 style is inconsistent with table data cell (td) style causing the text in the Term column to be lower than the text in the Definition column. 
 
-The following css ensures the h6 Term and the definition are aligned when rendered. -->
+The following css ensures the h6 Term and the definition are aligned when rendered.
+
+Shame that the it works only in Visual Studio Code Preview and not on GitHub :-( -->
+
 
 <style>
-  td { margin-top: 0em; vertical-align: baseline; }
   h6.glossary { margin-top: 0em; vertical-align: baseline; }
+  td { margin-top: 0em; color:red; vertical-align: baseline; }  
 </style>
 
 
