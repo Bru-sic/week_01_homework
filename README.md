@@ -28,7 +28,7 @@ Chris Larsen and Jed McCaleb co-founded the company[^tracxn].
 Ripple's crypto and blockchain solutions are designed to "move, manage and tokenize value" predominantly for the following use cases:
    * Cross-Border Payments: Enable global money transfers
    * Crypto Liquidity: Source digital assets
-   * Central Bank Digital Currency: Implement CBDCs
+   * Central Bank Digital Currency: Implement <a title="Central Bank Digital Currencies" href="#cbdc">CBDCs</a>
 
 * *Who is the company's intended customer?*   
   Ripple is mainly targeting business customers[^RippleAbout] such as banks and financial institutions, that in turn use Ripple solutions for various types of consumers. Some examples of these include:  
@@ -43,10 +43,10 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
     | Segment | Value | Notes |
     | :--- | :---: | :--- |
-    |Business-to-Business (B2B)| US$150t |Transactions make up the largest share by far.|
-    |Consumer-to-Business (C2B)| US$2.8t |Cross-border e-commerce and offline tourism spend.|
-    |Business-to-Consumer (B2C)| US$1.6t |Wage salaries or interest payments.|
-    |Consumer-to-Consumer (C2C)| US$0.8t | Remittance payments.|
+    |<a title="Business-to-Business" href="#b2b">B2B</a>| US$150t |Transactions make up the largest share by far.|
+    |<a title="Consumer-to-Business" href="#c2b">C2B</a>| US$2.8t |Cross-border e-commerce and offline tourism spend.|
+    |<a title="Business-to-Consumer" href="#b2c">B2C</a>| US$1.6t |Wage salaries or interest payments.|
+    |<a title="Consumer-to-Consumer" href="#c2c">C2C</a>| US$0.8t | Remittance payments.|
 
     ***Table 1:*** Predicted global cross-border payment flow by segment.[^EYFlows]
 
@@ -140,6 +140,11 @@ Consumer to Consumer.
 Compound Annual Growth Rate.
 
 ---
+
+### CBDC
+Central Bank Digital Currency.
+
+
 
 ## References
 [^RippleAbout]: [ Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
