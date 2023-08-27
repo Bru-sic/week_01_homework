@@ -61,9 +61,10 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
   With RippleNet, customers can quickly access new markets, expand their services and deliver the best customer experience in global payments today. With a single connection, customers can access the best blockchain technology for global payments, payout capabilities in over 40 currencies, On-Demand Liquidity as an alternative to pre-funding and operational consistency through a common rulebook.[^RippleFAQ]
 
+  
   Table 2 provides a further comparison of XRP's technology with other prominent cryptocurrencies, highlighting that XRP has been designed with payments, speed, throughput and efficiency in mind. 
 
-  | Cryptocurrency / Blockchain | Bitcoin\/Bitcoin | Ether/Ethereum |	XRP/XRP Ledger|
+  | Cryptocurrency / Blockchain | Bitcoin / Bitcoin | Ether / Ethereum |	XRP / XRP&nbsp;Ledger|
   |:---| :---| :--- | :--- |
   |Key Use  | Store of Value   |Smart Contracts  |  Payments |
   |Speed to Transact (seconds) | 409.98  | 300.00 |  3.83 |
@@ -86,51 +87,52 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   <details open>
     <summary>Application and Data</summary>
 
-    * Amazon S3   
-    * Amazon EC2   
-    * ES6   
-    * HTML5   
+    * [Amazon S3](https://aws.amazon.com/s3/): AWS' Simple Storage Service where data is stored as objects within resources called “buckets”, and a single object can be up to 5 terabytes in size.
+    * [Amazon EC2](https://aws.amazon.com/ec2/): AWS' Elastic Compute Cloud which offers (virtual) cloud compute as a service allowing customer like Ripple to rent rather than buy physical computing systems.  
+    * [ES6 (Standard ECMA-262 6th Edition)](https://262.ecma-international.org/6.0/): A new version of the Javascript programming language.
+    * [HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/): HyperText Markup Language version 5, used for coding web pages.    
     * Google Drive   
-    * Java   
-    * JavaScript   
-    * jQuery   
-    * Kafka   
-    * NGINX   
-    * PostgreSQL   
-    * RabbitMQ      
-    * React   
-    * Redis   
-    * TypeScript   
+    * Java: programming language.   
+    * JavaScript: programming language.   
+    * [jQuery](https://jquery.com/): JavaScript library that simplifies   HTML document traversal and manipulation, event handling, animation, and Ajax.   
+    * [Kafka](https://kafka.apache.org/): open-source distributed event streaming platform   
+    * [NGINX](https://www.nginx.com/): web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.   
+    * [PostgreSQL](https://www.postgresql.org/): open source object-relational database system.   
+    * [RabbitMQ](https://www.rabbitmq.com/): open source message broker.   
+    * [React](https://react.dev/): open-source front-end JavaScript library for building web and native user interfaces.   
+    * [Redis](https://redis.io/): open source, in-memory data store used by  developers as a database, cache, streaming engine, and message broker.    
+    * [TypeScript](https://www.typescriptlang.org/): a programming language based on Javascript.    
   </details>
 
     <details open>
     <summary>Utilities</summary>
 
-    * Google Analytics   
+    * [Google Analytics](https://marketingplatform.google.com/about/analytics/): service offered by Google that tracks and reports website traffic and also the mobile app traffic &amp; events.   
     </details>
 
 
     <details open>
     <summary>Utilities</summary>
 
-    * Babel   
-    * Docker   
-    * GitHub   
-    * Jenkins   
+    * [Babel](https://babeljs.io/): JavaScript compliler.   
+    * [Docker](https://www.docker.com/): a platform designed to help developers build, share, and run container applications.   
+    * [GitHub](https://github.com/): a platform and cloud-based service for software development and version control using Git.
+    * [Jenkins](https://www.jenkins.io/): open source automation server which helps automate parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
     </details>
 
 
     <details open>
     <summary>Utilities</summary>
 
-    * Confluence   
-    * G Suite   
-    * Jira   
-    * Slack   
-    * WordPress   
+    * [Confluence](https://www.atlassian.com/software/confluence): web-based corporate wiki.   
+    * [G Suite (now known as Workspace)](https://workspace.google.com/intl/en_au/): a collection of cloud computing, productivity and collaboration tools, software and products.   
+    * [Jira](https://www.atlassian.com/software/jira): issue tracking.
+    * [Slack](https://slack.com/intl/en-au) instant messaging.  
+    * [WordPress](https://wordpress.com/):  website builder and content management system.
     </details>
 
   
+
 ## Landscape:
 
 * *What domain of the financial industry is the company in?*  
@@ -168,10 +170,16 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   So far, Ripple's accomplishments include:
   * Ripple has processed nearly $30B worth of volume and 20M transactions since RippleNet was first launched. In 2022, approximately 60% of those payments were sent through <a title="On Demand Liquidity" href="#odl">ODL</a>.[^RippleInsightsQ42022]   
   * Ripple has over 300 business customers which continues to expand.
-  * Ripple’s crypto-powered payment solution is available in nearly 40 payout markets, up from just three markets in 2020. 
+  * Ripple’s crypto-powered payment solution is available in nearly 40 payout markets, up from just three markets in 2020.  
+
+  Benefits claimed by some of Ripple's customers include:
+    * 40% reduction in cross-border payment costs since MoneyMatch joined RippleNet.   
+    * US$25M saved by Sentbe customers on foreign exchange conversion and transaction fees.
+    * Payments via Modulr in less than 10 seconds.
+    * 98% savings on domestic transfer rates for NIUM customers.
 
 
-  Despite its successes, Ripple has faced some legal challenges which include:   
+  Despite its successes, Ripple has faced some significant legal challenges, which include:   
    * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act \(BSA\)[^FinCEN]   
    * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>,</sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
 
