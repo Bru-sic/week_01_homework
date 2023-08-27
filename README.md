@@ -14,7 +14,7 @@ Chris Larsen and Jed McCaleb co-founded the company[^tracxn].
 * *How did the idea for the company (or project) come about?*   
  Chris attributes the idea for the company's key product, the XRP Ledger, originating in 2004 from the "Ripple Project" initially conceived by Ryan Fuger.
 
-  In early 2011, three developers—David Schwartz, Jed McCaleb, and Arthur Britto—were fascinated with Bitcoin but observed the waste inherent in mining. They sought to create a more sustainable system for sending value \(an idea outlined in a May 2011 forum post: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0)\)[^Bitcoin_Talk].
+  In early 2011, three developers—David Schwartz, Jed McCaleb, and Arthur Britto—were fascinated with Bitcoin but observed the waste inherent in mining. They sought to create a more sustainable system for sending value (an idea outlined in a May 2011 forum post: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0))[^Bitcoin_Talk].
 
   [![Video clip placeholder of How Ripple Got Started, featuring Chris Larsen](https://img.youtube.com/vi/3zW_DN9pkbM/0.jpg)](https://www.youtube.com/watch?v=3zW_DN9pkbM)
 
@@ -66,17 +66,17 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   | Cryptocurrency / Blockchain | Bitcoin\/Bitcoin | Ether/Ethereum |	XRP/XRP Ledger|
   |:---| :---| :--- | :--- |
   |Key Use  | Store of Value   |Smart Contracts  |  Payments |
-  |Speed to Transact \(seconds\) | 409.98  | 300.00 |  3.83 |
+  |Speed to Transact (seconds) | 409.98  | 300.00 |  3.83 |
   |Cost per Transaction (US$)  | $0.465 | $9.00 | $0.0002 |
-  |Transactions Per Second | 5 | 10 | 1,500 \(max\)|
+  |Transactions Per Second | 5 | 10 | 1,500 (max)|
 
   ***Table 2:*** Approximative Comparison of Different Cryptocurrencies[^RippleCryptoIntro]
   
   Kohli et al[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies - in the case of BitCoin, up to 100,000 times more efficient, although there are other cryptocurrencies such as Hedera which are even more efficient than XRP.
 
 		
-   ![Figure 2: Energy consumption per transaction for various cryptocurrencies \(and their consensus mechanisms\)](./assets/crypto-energy-consumption.jpg)   
-   ***Figure 2:*** Energy consumption per transaction for various cryptocurrencies \(and their consensus mechanisms\). Source: Kohli et al (2023)[^Kohli-2023]
+   ![Figure 2: Energy consumption per transaction for various cryptocurrencies (and their consensus mechanisms)](./assets/crypto-energy-consumption.jpg)   
+   ***Figure 2:*** Energy consumption per transaction for various cryptocurrencies (and their consensus mechanisms). Source: Kohli et al (2023)[^Kohli-2023]
 
 
 * *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*
@@ -130,25 +130,22 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
     * WordPress   
     </details>
 
-In addition, the [XRP Ledger](https://xrpl.org/software-ecosystem.html) is also used. 
-
-
+  
 ## Landscape:
 
 * *What domain of the financial industry is the company in?*  
-  Ripple operates in payments, crypto currency and blockchain domains.
+  Ripple operates in the payments, crypto currency and blockchain domains.
 
 * *What have been the major trends and innovations of this domain over the last 5-10 years?*  
-  
-In crypto and blockchain domains, interest has been growing for use of blockchain in applications besides cybercurrency since 2016. The trend continues as new use cases emerge, including voting, real estate, fitness tracking, intellectual rights, the internet of things and vaccine distribution. In addition, technological barriers were reduced when multiple cloud providers began offering "blockchain as a service".[^TechTarget]
+    In the crypto and blockchain domains, interest has been growing for use of blockchain in applications besides cybercurrency since 2016. The trend continues as new use cases emerge, including voting, real estate, fitness tracking, intellectual rights, the internet of things and vaccine distribution. Multiple cloud providers began offering "blockchain as a service" during the period.[^TechTarget]
 
-Trends in payments[^RBA2020] over the last 5 to 10 years include:  
-  * Faster domestic payments (PAYId, Osko, NPP), facilitating straight through processing
-  * Buy Now Pay Later (BNPL)
-  * Mobile device tap and go
-  * Crypto currencies
-  * Blockchain (for example XRP) as digital currencies and expedited payments
-  * A decline in cash transactions in favour of digital 
+    Trends in payments[^RBA2020] over the last 5 to 10 years include:  
+    * Faster domestic payments (NPP/Osko/PayID), which has facilitated straight through processing
+    * Buy Now Pay Later
+    * Mobile device tap and go
+    * Crypto currencies
+    * Blockchain (e.g. XRP) as digital currencies and expedited payments
+    * A decline in cash transactions in favour of digital 
 
 * *What are the other major companies in this domain?*  
    Other blockchain platform companies include[^Gartner]:
@@ -164,11 +161,45 @@ Trends in payments[^RBA2020] over the last 5 to 10 years include:
   
 ## Results
 
-* *What has been the business impact of this company so far?*
+* *What has been the business impact of this company so far?*   
+>RippleNet members and their customers — corporations and consumers alike — are increasingly reaping the benefits of instant, on-demand, certain and low-cost payments with Ripple solutions, ultimately sharpening their competitive edges. As more financial institutions join RippleNet, instant payments will reach more destinations and costs will further compress, enabling members to continuously improve their global payments services.[^RipplePR100]
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+  So far, Ripple's accomplishments including:
+  * Ripple has processed nearly $30B worth of volume and 20M transactions since RippleNet was first launched. In 2022, approximately 60% of those payments were sent through <a title="On Demand Liquidity" href="#odl">ODL</a>.[^RippleInsightsQ42022]   
+  * Ripple has over 300 business customers
+    Ripple remains one of the few crypto firms well capitalized and ready to meet robust customer demand in 2023 head-on by continuing to hire strategically, invest in attractive opportunities and build a platform that can allow traditional institutions to access crypto innovation on the XRPL in a safe and secure fashion. 
+
+    Ripple wrapped up 2022 with its strongest year to date focusing on crypto utility and scaling its ODL product. As RippleNet continues to grow, despite a tumultuous market, Ripple experienced the highest amount of demand from both new and existing customers adopting ODL. Today, Ripple’s crypto-powered payment solution is available in nearly 40 payout markets, up from just three markets in 2020. 
+
+    Last quarter, <a title="On Demand Liquidity" href="#odl">ODL</a> was launched in France and Sweden in partnership with payments providers Lemonway and Xbaht respectively, and in Africa via MFS Africa, a leading payments gateway in the region. Additionally, Ripple expanded its customer base to corporates that are looking to experience the benefits of crypto-enabled cross-border payments for their business. 
+
+
+
+  Disciplined, Responsible Stakeholders: Q4 Sales and Purchases 
+  Last quarter, total XRP sales by Ripple, net of purchases, were $226.31M vs. $310.68M in the previous quarter. Ripple has continued to sell XRP only in connection with ODL transactions.
+
+
+   * Despite its successes, Ripple has faced some legal challenges which include:  
+     * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act (BSA)[^FinCEN]   
+     * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering[^SECPR].  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres],[^HKLaw-1] for three of the four transaction types at issue, the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
+   
+US SEC seeks to appeal Ripple Labs crypto decision
+
+   Although a partial favourable ruling was made in Ripple's favour, a few matters were judgement was passed , which although    [^HKlaw]
+      > 
+
+
+* *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*    
+
+
+
+Uptime 99.99%
+
+
+* *How is your company performing relative to competitors in the same domain?*   
+
+
 
 ## Recommendations
 
@@ -213,7 +244,27 @@ Compound Annual Growth Rate.
 ### CBDC
 Central Bank Digital Currency.
 
+---
 
+### ODL
+On Demand Liquidity.
+
+---
+
+### SEC
+Securities and Exchange Commission.
+
+---
+
+### XRP
+XRP is the cryptocurrency that is native to the XRP Ledger (<a title="The XRP Ledger is an open-source, public, decentralized blockchain" href="#xrpl">XRPL</a>).
+
+---
+
+### XRPL
+The <a title="XRP is the cryptocurrency that is native to the XRP Ledger" href="#xrp">XRP</a> Ledger is an open-source, public, decentralized blockchain.
+
+---
 
 ## References
 [^RippleAbout]: [Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
@@ -222,6 +273,12 @@ Central Bank Digital Currency.
 
 [^RippleFAQ]: [Ripple Labs Inc. Frequently Asked Questions](https://ripple.com/faq/)
 
+[^RippleInsightsQ42022]: [Ripple Labs Inc. (30/1/2023) "Q4 2022 XRP Markets Report"](https://ripple.com/insights/q4-2022-xrp-markets-report/)
+
+
+[^RipplePR100]: [Ripple Labs Inc. "Ripple’s Blockchain Network Is Now More Than 100 Strong"](10/10/2017)(https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/)
+
+
 [^CrunchBase]: [Crunchbase Inc. - Ripple Financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
 
@@ -229,20 +286,29 @@ Central Bank Digital Currency.
 
 [^EYFlows]: [Ernst &amp; Young Global Ltd. (2021) "How new entrants are redefining cross-border payments"](https://www.ey.com/en_au/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments)
 
-[^SoS-NewCoin]: [Californian Secretary of State filing - incorporation of NewCoin Inc (19/09/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/187089170177186059061179244045225015102149150023)
+[^FinCEN]: [U.S. Financial Crimes Enforcement Network (05/05/2015) "FinCEN Fines Ripple Labs Inc. in First Civil Enforcement Action Against a Virtual Currency Exchanger" ](https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual)
 
-[^SoS-OpenCoin]: [Californian Secretary of State filing - amendment to OpenCoin Inc (3/10/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/116067222226235006001172039135168044050121032046)
+[^SECPR]: [Securities Exchange Commission, (22/12/2020) "SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering"](https://www.sec.gov/news/press-release/2020-338)
 
-[^SoS-Ripple]: [Californian Secretary of State filing - amendment to Ripple Inc dated (18/10/2023)](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/076031074160242065134127075129213240171193013106)
+[^HKLaw-1]: [Mascianica S., Magee J., McCarron Turner J. (20/07/2023) "SEC v. Ripple: When a Security Is Not a Security - Summary Judgment Battle Results in Split Decision, Blow to SEC Enforcement"](https://www.hklaw.com/en/insights/publications/2023/07/sec-v-ripple-when-a-security-is-not-a-security) 
+
+[^Torres]: [Torres A., United States District Court Southern District Of New York (13/07/2023) "Order on Case 1:20-cv-10832-AT-SN (SEC vs Ripple Labs et al) Document 874"](https://www.nysd.uscourts.gov/sites/default/files/2023-07/SEC%20vs%20Ripple%207-13-23.pdf)
+
+[^Reuters]: [Stempel J., Reuters (12/08/2023) "US SEC seeks to appeal Ripple Labs crypto decision" ](https://www.reuters.com/legal/us-sec-appeal-ripple-labs-court-ruling-2023-08-09/)
+
+[^SoS-NewCoin]: [Californian Secretary of State (19/09/2023) Articles of Incorporation #3505635 NewCoin Inc](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/187089170177186059061179244045225015102149150023)
+
+[^SoS-OpenCoin]: [Californian Secretary of State (3/10/2023) Certificate of Amendment #A0732979 Renamed to OpenCoin Inc](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/116067222226235006001172039135168044050121032046)
+
+[^SoS-Ripple]: [Californian Secretary of State (18/10/2023) Certificate of Amendment #A0747403 Renamed to Ripple Inc](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/076031074160242065134127075129213240171193013106)
 
 [^tracxn]: [Tracxn \(n.d.\) Ripple Founders](https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors)
 
-[^Kohli-2023]: [Kohli V. et al, \(2023\) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
+[^Kohli-2023]: [Kohli V. et al, (2023) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
 
 [^Stackshare]: [Ripple profile on stackshare.io (26/08/2023](https://stackshare.io/ripple/ripple)
 
-[^RBA2020]: [Reserve Bank of Australia (2020) "Payments System Board Annual Report – 2020
-Trends in Payments, Clearing and Settlement Systems"](https://www.rba.gov.au/publications/annual-reports/psb/2020/trends-in-payments-clearing-and-settlement-systems.html)
+[^RBA2020]: [Reserve Bank of Australia (2020) "Payments System Board Annual Report – 2020 Trends in Payments, Clearing and Settlement Systems"](https://www.rba.gov.au/publications/annual-reports/psb/2020/trends-in-payments-clearing-and-settlement-systems.html)
 
 [^TechTarget]: [Sheldon R. "A timeline and history of blockchain technology" (9/09/2021)](https://www.techtarget.com/whatis/feature/A-timeline-and-history-of-blockchain-technology)
 
