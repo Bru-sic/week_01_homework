@@ -62,24 +62,6 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   With RippleNet, customers can quickly access new markets, expand their services and deliver the best customer experience in global payments today. With a single connection, customers can access the best blockchain technology for global payments, payout capabilities in over 40 currencies, On-Demand Liquidity as an alternative to pre-funding and operational consistency through a common rulebook.[^RippleFAQ]
 
   
-  Table 2 provides a further comparison of XRP's technology with other prominent cryptocurrencies, highlighting that XRP has been designed with payments, speed, throughput and efficiency in mind. 
-
-  | Cryptocurrency / Blockchain | Bitcoin / Bitcoin | Ether / Ethereum |	XRP / XRP&nbsp;Ledger|
-  |:---| :---| :--- | :--- |
-  |Key Use  | Store of Value   |Smart Contracts  |  Payments |
-  |Speed to Transact (seconds) | 409.98  | 300.00 |  3.83 |
-  |Cost per Transaction (US$)  | $0.465 | $9.00 | $0.0002 |
-  |Transactions Per Second | 5 | 10 | 1,500 (max)|
-
-  ***Table 2:*** Approximative Comparison of Different Cryptocurrencies[^RippleCryptoIntro]
-  
-  Kohli et al[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies - in the case of BitCoin, up to 100,000 times more efficient, although there are other cryptocurrencies such as Hedera which are even more efficient than XRP.
-
-		
-   ![Figure 2: Energy consumption per transaction for various cryptocurrencies (and their consensus mechanisms)](./assets/crypto-energy-consumption.jpg)   
-   ***Figure 2:*** Energy consumption per transaction for various cryptocurrencies (and their consensus mechanisms). Source: Kohli et al (2023)[^Kohli-2023]
-
-
 * *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*
   
   [Stackshare](https://stackshare.io/ripple/ripple)[^StackShare] indicates Ripple uses the following technologies:
@@ -186,18 +168,41 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
 * *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*    
 
-<p style="color:red; font-size:40px">---HERE BRU---</p>
-
-Uptime 99.99%
+  Typical metrics include:
+  * Processing throughput (in transactions per second),
+  * Cost of processing
+  * End to end Processing speed
+  * Energy consumption
+  * Buy / sell volume on exchanges
+  * Price of the token
 
 
 * *How is your company performing relative to competitors in the same domain?*   
+
+  A comparison of Ripple's XRP against prominent cryptocurrencies is presented in Table 2 below, which highlights the extent of XRP's performance advantage.
+
+  | Cryptocurrency / Blockchain | Bitcoin / Bitcoin | Ether / Ethereum |	XRP / XRP&nbsp;Ledger|
+  |:---| :---| :--- | :--- |
+  |Key Use  | Store of Value   |Smart Contracts  |  Payments |
+  |Speed to Transact (seconds) | 409.98  | 300.00 |  3.83 |
+  |Cost per Transaction (US$)  | $0.465 | $9.00 | $0.0002 |
+  |Transactions Per Second | 5 | 10 | 1,500 (max)|
+
+  ***Table 2:*** Approximative Comparison of Different Cryptocurrencies[^RippleCryptoIntro]
+  
+  Further, Kohli et al[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies by an order of up to 100,000 times more efficient compared to BitCoin, although there are other cryptocurrencies, such as Hedera, which are even more efficient than XRP.
+
+		
+   ![Figure 2: Energy consumption per transaction for various cryptocurrencies (and their consensus mechanisms)](./assets/crypto-energy-consumption.jpg)   
+   ***Figure 2:*** Energy consumption per transaction for various cryptocurrencies (and their consensus mechanisms). Source: Kohli et al (2023)[^Kohli-2023]
 
 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+<p style="color:red; font-size:40px">---HERE BRU---</p>
 
 * Why do you think that offering this product or service would benefit the company?
 
