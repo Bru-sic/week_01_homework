@@ -162,37 +162,23 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 ## Results
 
 * *What has been the business impact of this company so far?*   
->RippleNet members and their customers — corporations and consumers alike — are increasingly reaping the benefits of instant, on-demand, certain and low-cost payments with Ripple solutions, ultimately sharpening their competitive edges. As more financial institutions join RippleNet, instant payments will reach more destinations and costs will further compress, enabling members to continuously improve their global payments services.[^RipplePR100]
+  >RippleNet members and their customers — corporations and consumers alike — are increasingly reaping the benefits of instant, on-demand, certain and low-cost payments with Ripple solutions, ultimately sharpening their competitive edges. As more financial institutions join RippleNet, instant payments will reach more destinations and costs will further compress, enabling members to continuously improve their global payments services.[^RipplePR100]
 
 
-  So far, Ripple's accomplishments including:
+  So far, Ripple's accomplishments include:
   * Ripple has processed nearly $30B worth of volume and 20M transactions since RippleNet was first launched. In 2022, approximately 60% of those payments were sent through <a title="On Demand Liquidity" href="#odl">ODL</a>.[^RippleInsightsQ42022]   
-  * Ripple has over 300 business customers
-    Ripple remains one of the few crypto firms well capitalized and ready to meet robust customer demand in 2023 head-on by continuing to hire strategically, invest in attractive opportunities and build a platform that can allow traditional institutions to access crypto innovation on the XRPL in a safe and secure fashion. 
-
-    Ripple wrapped up 2022 with its strongest year to date focusing on crypto utility and scaling its ODL product. As RippleNet continues to grow, despite a tumultuous market, Ripple experienced the highest amount of demand from both new and existing customers adopting ODL. Today, Ripple’s crypto-powered payment solution is available in nearly 40 payout markets, up from just three markets in 2020. 
-
-    Last quarter, <a title="On Demand Liquidity" href="#odl">ODL</a> was launched in France and Sweden in partnership with payments providers Lemonway and Xbaht respectively, and in Africa via MFS Africa, a leading payments gateway in the region. Additionally, Ripple expanded its customer base to corporates that are looking to experience the benefits of crypto-enabled cross-border payments for their business. 
+  * Ripple has over 300 business customers which continues to expand.
+  * Ripple’s crypto-powered payment solution is available in nearly 40 payout markets, up from just three markets in 2020. 
 
 
-
-  Disciplined, Responsible Stakeholders: Q4 Sales and Purchases 
-  Last quarter, total XRP sales by Ripple, net of purchases, were $226.31M vs. $310.68M in the previous quarter. Ripple has continued to sell XRP only in connection with ODL transactions.
-
-
-   * Despite its successes, Ripple has faced some legal challenges which include:  
-     * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act (BSA)[^FinCEN]   
-     * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering[^SECPR].  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres],[^HKLaw-1] for three of the four transaction types at issue, the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
-   
-US SEC seeks to appeal Ripple Labs crypto decision
-
-   Although a partial favourable ruling was made in Ripple's favour, a few matters were judgement was passed , which although    [^HKlaw]
-      > 
+  Despite its successes, Ripple has faced some legal challenges which include:   
+   * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act \(BSA\)[^FinCEN]   
+   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>,</sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
 
 
 * *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*    
 
-
+<p style="color:red; font-size:40px">---HERE BRU---</p>
 
 Uptime 99.99%
 
