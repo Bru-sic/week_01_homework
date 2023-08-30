@@ -1,4 +1,34 @@
 # Ripple Labs - Case Study
+<!-- Implementation notes
+The following features have been used in this markdown document:
+  1. Basic Markdown: # Headings, unordered lists, ordered lists, hyperlinks, text styling (bold, italic etc), backslash escaping of special symbols, images (from this repository and external sources eg YouTube), line breaks, quotes, source comments
+  2. Enhanced / Advanced Markdown / HTML (note: some features only work on GitHub User Interface not Visual Studio Code): Footnotes, Accordion (HTML summary/details tags), Mouse-over for defined terms (HTML anchor tag), use of HTML entities (eg &nbsp; ), tables
+  3. User features: a disclaimer, a table of contents, a glossary of defined terms and acronyms, mouse-over for abbreviations.
+
+
+TO DO:
+* technology stack include XRPL and its associated stacks
+* Last section
+* references as per Purdue quotation style
+* Table of contents
+
+-->
+
+Author: Bruno Ivasic   
+Date: 29 August 2023  
+
+**Disclaimer:** This case study is ***NOT*** intended to provide legal, financial or investment advice of any kind.
+
+
+## Table of Contents
+* [Overview and Origin](#overview-and-origin)
+* [Business Activities](#business-activities)
+* [Landscape](#landscape)
+* [Results](#results)
+* [Recommendations](#recommendations)
+* [Glossary](#glossary)
+* [References](#references)
+
 
 ## Overview and Origin
 
@@ -62,58 +92,73 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   With RippleNet, customers can quickly access new markets, expand their services and deliver the best customer experience in global payments today. With a single connection, customers can access the best blockchain technology for global payments, payout capabilities in over 40 currencies, On-Demand Liquidity as an alternative to pre-funding and operational consistency through a common rulebook.[^RippleFAQ]
 
   
-* *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*
+* *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*   
   
-  [Stackshare](https://stackshare.io/ripple/ripple)[^StackShare] indicates Ripple uses the following technologies:
-
-  <details open>
-    <summary>Application and Data</summary>
-
+    [Stackshare](https://stackshare.io/ripple/ripple) users[^StackShare] indicate Ripple adopts  the following technologies:
+      <details>
+      <summary>Application and Data</summary>
     * [Amazon S3](https://aws.amazon.com/s3/): AWS' Simple Storage Service where data is stored as objects within resources called “buckets”, and a single object can be up to 5 terabytes in size.
     * [Amazon EC2](https://aws.amazon.com/ec2/): AWS' Elastic Compute Cloud which offers (virtual) cloud compute as a service allowing customer like Ripple to rent rather than buy physical computing systems.  
     * [ES6 (Standard ECMA-262 6th Edition)](https://262.ecma-international.org/6.0/): A new version of the Javascript programming language.
     * [HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/): HyperText Markup Language version 5, used for coding web pages.    
-    * Google Drive   
-    * Java: programming language.   
-    * JavaScript: programming language.   
-    * [jQuery](https://jquery.com/): JavaScript library that simplifies   HTML document traversal and manipulation, event handling, animation, and Ajax.   
-    * [Kafka](https://kafka.apache.org/): open-source distributed event streaming platform   
+    * [Google Drive](https://www.google.com/intl/en_au/drive/): Cloud storage.   
+    * [Java](https://www.oracle.com/java/): programming language / development platform.   
+    * [JavaScript](https://developer.oracle.com/languages/javascript.html): programming language.   
+    * [jQuery](https://jquery.com/): JavaScript library that simplifies HTML document traversal and manipulation, event handling, animation, and Ajax.   
+    * [Kafka](https://kafka.apache.org/): open-source distributed event streaming platform.   
     * [NGINX](https://www.nginx.com/): web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.   
     * [PostgreSQL](https://www.postgresql.org/): open source object-relational database system.   
     * [RabbitMQ](https://www.rabbitmq.com/): open source message broker.   
     * [React](https://react.dev/): open-source front-end JavaScript library for building web and native user interfaces.   
     * [Redis](https://redis.io/): open source, in-memory data store used by  developers as a database, cache, streaming engine, and message broker.    
     * [TypeScript](https://www.typescriptlang.org/): a programming language based on Javascript.    
-  </details>
+      </details>
 
-    <details open>
-    <summary>Utilities</summary>
+      <details>
+      <summary>Utilities</summary>
 
-    * [Google Analytics](https://marketingplatform.google.com/about/analytics/): service offered by Google that tracks and reports website traffic and also the mobile app traffic &amp; events.   
-    </details>
-
-
-    <details open>
-    <summary>Utilities</summary>
-
-    * [Babel](https://babeljs.io/): JavaScript compliler.   
-    * [Docker](https://www.docker.com/): a platform designed to help developers build, share, and run container applications.   
-    * [GitHub](https://github.com/): a platform and cloud-based service for software development and version control using Git.
-    * [Jenkins](https://www.jenkins.io/): open source automation server which helps automate parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
-    </details>
+      * [Google Analytics](https://marketingplatform.google.com/about/analytics/): service offered by Google that tracks and reports website traffic and also the mobile app traffic and events.
+      </details>
 
 
-    <details open>
-    <summary>Utilities</summary>
+      <details>
+      <summary>Dev Ops</summary>
 
-    * [Confluence](https://www.atlassian.com/software/confluence): web-based corporate wiki.   
-    * [G Suite (now known as Workspace)](https://workspace.google.com/intl/en_au/): a collection of cloud computing, productivity and collaboration tools, software and products.   
-    * [Jira](https://www.atlassian.com/software/jira): issue tracking.
-    * [Slack](https://slack.com/intl/en-au) instant messaging.  
-    * [WordPress](https://wordpress.com/):  website builder and content management system.
-    </details>
+      * [Babel](https://babeljs.io/): JavaScript compliler.   
+      * [Docker](https://www.docker.com/): platform designed to help developers build, share, and run container applications.   
+      * [GitHub](https://github.com/): platform and cloud-based service for software development and version control using Git.
+      * [Jenkins](https://www.jenkins.io/): open source automation server which helps automate parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
+      </details>
+
+
+      <details>
+      <summary>Business Tools</summary>
+
+      * [Confluence](https://www.atlassian.com/software/confluence): web-based corporate wiki.   
+      * [G Suite (now known as Workspace)](https://workspace.google.com/intl/en_au/): a collection of cloud computing, productivity and collaboration tools, software and products.   
+      * [Jira](https://www.atlassian.com/software/jira): issue tracking.
+      * [Slack](https://slack.com/intl/en-au) instant messaging.  
+      * [WordPress](https://wordpress.com/):  website builder and content management system.
+      </details>
+
 
   
+      <details>
+      <summary>In addition, Ripple uses the XRP Ledger, which includes / uses the following technologies[^xrplrefs]:</summary>
+      
+      * [Python](https://www.python.org/)
+      * [Java](https://www.oracle.com/java/): programming language / development platform.   
+      * [JavaScript](https://developer.oracle.com/languages/javascript.html): programming language.   
+      * [TypeScript](https://learn.microsoft.com/en-us/archive/msdn-magazine/2014/june/typescript-enhance-your-javascript-investment-with-typescript):  superset of the JavaScript programming language. 
+      * [C++](https://isocpp.org/std/the-standard): programming language.
+      * [Ruby](https://www.ruby-lang.org/en/): programming language.
+      * [Tom's Obvious Minimal Language "TOML"](https://toml.io/en/): definition language for configuration files.    
+      * [HTTP APIs](https://www.ietf.org/rfc/rfc2616.txt): Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems.   
+      * [WebSocket APIs](https://www.rfc-editor.org/rfc/rfc6455): specification for two-way communication between a client running untrusted code in a controlled environment to a remote host that has opted-in to communications from that code. 
+      * [Linux](https://www.linux.com/what-is-linux/): Operating System.
+      
+      </details>
+
 
 ## Landscape:
 
@@ -163,7 +208,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
   Despite its successes, Ripple has faced some significant legal challenges, which include:   
    * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act \(BSA\)[^FinCEN]   
-   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>,</sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
+   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>, </sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
 
 
 * *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*    
@@ -181,14 +226,14 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
   A comparison of Ripple's XRP against prominent cryptocurrencies is presented in Table 2 below, which highlights the extent of XRP's performance advantage.
 
-  | Cryptocurrency / Blockchain | Bitcoin / Bitcoin | Ether / Ethereum |	XRP / XRP&nbsp;Ledger|
+  | Cryptocurrency / Blockchain | Bitcoin / Bitcoin | Ether / Ethereum&nbsp;1.0 |	XRP / XRP&nbsp;Ledger|
   |:---| :---| :--- | :--- |
   |Key Use  | Store of Value   |Smart Contracts  |  Payments |
   |Speed to Transact (seconds) | 409.98  | 300.00 |  3.83 |
   |Cost per Transaction (US$)  | $0.465 | $9.00 | $0.0002 |
-  |Transactions Per Second | 5 | 10 | 1,500 (max)|
+  |Transactions Per Second | 5 | 10 | 1,500[^RippleCryptoIntro] - 3,400[^RippleXrp]|
 
-  ***Table 2:*** Approximative Comparison of Different Cryptocurrencies[^RippleCryptoIntro]
+  ***Table 2:*** Comparison of Prominent Cryptocurrencies [^RippleCryptoIntro]<sup>, </sup> [^RippleXrp]
   
   Further, Kohli et al[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies by an order of up to 100,000 times more efficient compared to BitCoin, although there are other cryptocurrencies, such as Hedera, which are even more efficient than XRP.
 
@@ -200,7 +245,36 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* *If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)*   
+
+  
+  Some of the negative comments posted on [Gartner Peer Insights](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple) about Ripple's blockchain / crypto product suggest it doesn't really support smart contracts like other blockchain solutions.[^gpr-726158]<sup>, </sup>[^gpr-842917]  
+  
+
+  https://www.coingecko.com/en/categories/smart-contract-platform
+
+
+  Further research indicates 
+
+
+  BREAKING NEWS!
+  https://cryptonews.net/news/altcoins/21497858/
+
+
+ipple/review/view/842917
+
+
+  https://u.today/new-xrp-token-xrp-unleashed-as-part-of-smart-contract-revolution-on-xrpl
+
+  Coincidently Ripple 
+ It 
+
+  > B. Old Functioned \[ed. fashioned?\] programming experience,
+  
+  Transaction fees are low but, you need to pay it for each transaction. if there is bulk fee it could be better.
+
+
+
 
 <p style="color:red; font-size:40px">---HERE BRU---</p>
 
@@ -211,7 +285,8 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 * Why are these technologies appropriate for your solution?
 
 
-# Appendix
+---
+
 
 ## Glossary
 
@@ -255,6 +330,15 @@ Securities and Exchange Commission.
 
 ---
 
+### Smart Contract
+[smart-contract]: ["A smart contract is a blockchain-based program that encodes the conditions and fulfillment of an agreement between two or more parties and automatically fulfills the terms of the agreement once conditions are met."]
+
+This is my [random value] located somewhere in my Markdown document.
+
+[random value]: variable value
+
+---
+
 ### XRP
 XRP is the cryptocurrency that is native to the XRP Ledger (<a title="The XRP Ledger is an open-source, public, decentralized blockchain" href="#xrpl">XRPL</a>).
 
@@ -277,6 +361,8 @@ The <a title="XRP is the cryptocurrency that is native to the XRP Ledger" href="
 
 [^RipplePR100]: [Ripple Labs Inc. "Ripple’s Blockchain Network Is Now More Than 100 Strong"](10/10/2017)(https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/)
 
+
+[^RippleXrp]:[Ripple Labs Inc. "XRP Overview"](https://ripple.com/xrp/)
 
 [^CrunchBase]: [Crunchbase Inc. - Ripple Financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
@@ -312,3 +398,11 @@ The <a title="XRP is the cryptocurrency that is native to the XRP Ledger" href="
 [^TechTarget]: [Sheldon R. "A timeline and history of blockchain technology" (9/09/2021)](https://www.techtarget.com/whatis/feature/A-timeline-and-history-of-blockchain-technology)
 
 [^Gartner]: [Gartner "Ripple Alternatives" (2023)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/alternatives)
+
+[^xrplrefs]: [XRP Ledger References and APIs](https://xrpl.org/references.html)
+
+[^gpr-726158]: [Gartner Peer Review Forum, Anonymous, (20/01/2020)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/726158)
+
+[^gpr-842917]: [Gartner Peer Review Forum, Anonymous, (24/04/2019)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/842917)
+
+
