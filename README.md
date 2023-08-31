@@ -53,7 +53,7 @@ Chris Larsen and Jed McCaleb co-founded the company.[^tracxn]
 * *How is the company funded? How much funding have they received?*   
     Ripple has raised a total of US$293.8M in funding over 14 rounds between May 2015 to August 2021 from 43 different investors.[^CrunchBase]
 
-## Business Activities:
+## Business Activities
 
 * *What specific financial problem is the company or project trying to solve?*   
 Ripple's crypto and blockchain solutions are designed to "move, manage and tokenize value"[^RippleSolutions] predominantly for the following use cases:
@@ -160,7 +160,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
       </details>
 
 
-## Landscape:
+## Landscape
 
 * *What domain of the financial industry is the company in?*  
   Ripple operates in the payments, crypto currency and blockchain domains.
