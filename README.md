@@ -34,7 +34,7 @@ Date: 31 August 2023
 ## Overview and Origin
 
 * *Name of company*   
-Ripple Labs Inc. ("Ripple").
+Ripple Labs Inc. (*"Ripple"*).
 
 * *When was the company incorporated?*   
 In short, 2011. The entity was initially incorporated as "NewCoin Inc."[^SoS-NewCoin] on 19 September 2012, then renamed to "OpenCoin Inc."[^SoS-OpenCoin] on 3 October 2012, and finally renamed to "Ripple Labs Inc."[^SoS-Ripple] on 18 October 2013.
@@ -59,7 +59,7 @@ Chris Larsen and Jed McCaleb co-founded the company.[^tracxn]
 Ripple's crypto and blockchain solutions are designed to "move, manage and tokenize value"[^RippleSolutions] predominantly for the following use cases:
    * Cross-Border Payments: Enable global money transfers
    * Crypto Liquidity: Source digital assets
-   * Central Bank Digital Currency: Implement [CBDCs][def-cbdc].
+   * Central Bank Digital Currency: Implement [**CBDCs**][def-cbdc].
 
 * *Who is the company's intended customer?*   
   Ripple is mainly targeting business customers[^RippleAbout] such as banks and financial institutions, that in turn use Ripple solutions for various types of consumers. Some examples of these include:  
@@ -69,15 +69,15 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
 
 * *Is there any information about the market size of this set of customers?*   
-  In 2021, Ernest &amp; Young[^EYFlows] estimated the total global cross-border payment flow to exceed US$156 trillion by 2022, with a <a title="Compound Annual Growth Rate" href="#cagr">CAGR</a> of 5%, segmented as follows:
+  In 2021, Ernest &amp; Young[^EYFlows] estimated the total global cross-border payment flow to exceed US$156 trillion by 2022, with a [**CAGR**][def-cagr] of 5%, segmented as follows:
 
 
     | Segment | Value | Notes |
     | :--- | :---: | :--- |
-    |[B2B][def-b2b]| US$150t |Transactions make up the largest share by far.|
-    |[C2B][def-c2b]| US$2.8t |Cross-border e-commerce and offline tourism spend.|
-    |[B2C][def-b2c]| US$1.6t |Wage salaries or interest payments.|
-    |[C2C][def-c2c]| US$0.8t | Remittance payments.|
+    |[**B2B**][def-b2b]| US$150t |Transactions make up the largest share by far.|
+    |[**C2B**][def-c2b]| US$2.8t |Cross-border e-commerce and offline tourism spend.|
+    |[**B2C**][def-b2c]| US$1.6t |Wage salaries or interest payments.|
+    |[**C2C**][def-c2c]| US$0.8t | Remittance payments.|
 
     ***Table 1:*** Predicted global cross-border payment flow by segment.[^EYFlows]
 
@@ -195,7 +195,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
 
   So far, Ripple's accomplishments include:
-  * Ripple has processed nearly $30B worth of volume and 20M transactions since RippleNet was first launched. In 2022, approximately 60% of those payments were sent through <a title="On Demand Liquidity" href="#odl">ODL</a>.[^RippleInsightsQ42022]   
+  * Ripple has processed nearly $30B worth of volume and 20M transactions since RippleNet was first launched. In 2022, approximately 60% of those payments were sent through [**ODL**][def-odl].[^RippleInsightsQ42022]   
   * Ripple has over 300 business customers which continues to expand.
   * Ripple’s crypto-powered payment solution is available in nearly 40 payout markets, up from just three markets in 2020.  
 
@@ -208,7 +208,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
   Despite its successes, Ripple has faced some significant legal challenges, which include:   
    * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act \(BSA\)[^FinCEN]   
-   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>, </sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="[U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling.[^Reuters]
+   * An action filed in 2022 by the [**SEC**][def-sec] charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>, </sup>[^HKLaw-1] for three of the four transaction types at issue, the [**SEC**][def-sec] plans to appeal the court's ruling.[^Reuters]
 
 
 * *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*    
@@ -248,7 +248,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 * *If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)*   
 
   
-  Some of the negative comments posted on [Gartner Peer Insights](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple) about Ripple's blockchain product suggest it doesn't really support [smart contracts][def-smart-contract] like other blockchain solutions.[^gpr-726158]<sup>, </sup>[^gpr-842917]  
+  Some of the negative comments posted on [Gartner Peer Insights](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple) about Ripple's blockchain product suggest it doesn't really support [**smart contracts**][def-smart-contract] like other blockchain solutions.[^gpr-726158]<sup>, </sup>[^gpr-842917]  
   
   Upon investigation of this claim, using a search within [Ripple's website](https://www.ripple.com) for the term "smart contract" indeed returned no results. However, a separate [Google Search restricted to the Ripple website](https://www.google.com/search?q=%22smart+contract%22+site%3Aripple.com) returned about 250 results, which of interest included:
   1. "Use an Escrow as a Smart Contract"[^xrplsc]; and
@@ -267,15 +267,15 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   [Zion Market Research](https://www.zionmarketresearch.com/report/smart-contracts-market) suggests:   
   > *in terms of revenue, the global smart contracts market size was valued at around USD 1750 million in 2022 and is projected to reach ***USD 9850 million***, by 2030*[^zion-sc]
 
-  Although Ripple is mentioned as a technology, its statistics are not, perhaps implying it is not a dominant player due to their current technology. XLR Ledger is not mentioned as a platform either.
+  Although Ripple is mentioned as a technology in the summary of the research paper[^zion-sc], its statistics are not, perhaps implying it is not a dominant player due to their current technology. XLR Ledger is not mentioned as a platform either. *Note: access to the full research paper was not available.*
 
 
 * What technologies would this additional product or service utilize?
 
-  The service would use [XRPL Hooks][def-hooks] as documented on [xrpl-hooks.readme.io](https://xrpl-hooks.readme.io/docs).
+  The service would use [**XRPL Hooks**][def-hooks] as documented on [xrpl-hooks.readme.io](https://xrpl-hooks.readme.io/docs).
 
 * *Why are these technologies appropriate for your solution?*   
-Developed for the XRP Ledger, [hooks][def-hooks] work "on-chain" as opposed to other solutions which work "off-chain" or "side-chain", and depending on one's view, either the advantage or risk that "hooks have the ability to control, with atomicity and finality, the logical flow and execution of transactions on the accounts to which the hooks are configured".[^wietse-h2]
+Developed for the XRP Ledger, [**hooks**][def-hooks] work "on-chain" as opposed to other solutions which work "off-chain" or "side-chain", and depending on one's view, either the advantage or risk that "hooks have the ability to control, with atomicity and finality, the logical flow and execution of transactions on the accounts to which the hooks are configured".[^wietse-h2]
 
 ---
 
@@ -360,14 +360,14 @@ A blockchain-based program that encodes the conditions and fulfillment of an agr
 
 ### XRP
 [def-xrp]: #xrp "XRP is the cryptocurrency that is native to the XRP Ledger."
-XRP is the cryptocurrency that is native to the [XRP Ledger][def-xrpl].[^investopedia-xrp]
+XRP is the cryptocurrency that is native to the [**XRP Ledger**][def-xrpl].[^investopedia-xrp]
 
 ---
 
 ### XRPL
 [def-xrpl]: #xrpl "The XRP Ledger is an open-source, public, decentralized blockchain."
 
-The [XRP][def-xrp] Ledger is an open-source, public, decentralized blockchain.[^investopedia-xrp]
+The [**XRP**][def-xrp] Ledger is an open-source, public, decentralized blockchain.[^investopedia-xrp]
 
 ---
 
