@@ -95,7 +95,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   
 * *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*   
   
-    [Stackshare](https://stackshare.io/ripple/ripple) users[^StackShare] indicate Ripple adopts  the following technologies:
+    [Stackshare](https://stackshare.io/ripple/ripple) users indicate Ripple appears to adopt the following technologies[^StackShare]<sup>,</sup>[^xrplrefs]:
       <details>
       <summary>Application and Data</summary>
     * [Amazon S3](https://aws.amazon.com/s3/): AWS' Simple Storage Service where data is stored as objects within resources called “buckets”, and a single object can be up to 5 terabytes in size.
@@ -144,8 +144,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
  
       <details>
-      <summary>XRP Ledger</summary>
-      Source: xrpl.org[^xrplrefs]
+      <summary>XRP Ledger</summary>      
 
       * [Python](https://www.python.org/)
       * [Java](https://www.oracle.com/java/): programming language / development platform.   
