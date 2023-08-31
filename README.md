@@ -359,14 +359,14 @@ A blockchain-based program that encodes the conditions and fulfillment of an agr
 
 ### XRP
 [def-xrp]: #xrp "XRP is the cryptocurrency that is native to the XRP Ledger."
-XRP is the cryptocurrency that is native to the [XRP Ledger][^def-xrpl].[^investopedia-xrp]
+XRP is the cryptocurrency that is native to the [XRP Ledger][def-xrpl].[^investopedia-xrp]
 
 ---
 
 ### XRPL
 [def-xrpl]: #xrpl "The XRP Ledger is an open-source, public, decentralized blockchain."
 
-The [XRP][^def-xrp] Ledger is an open-source, public, decentralized blockchain.[^investopedia-xrp]
+The [XRP][def-xrp] Ledger is an open-source, public, decentralized blockchain.[^investopedia-xrp]
 
 ---
 
