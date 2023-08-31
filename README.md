@@ -235,7 +235,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
   ***Table 2:*** Comparison of Prominent Cryptocurrencies [^RippleCryptoIntro]<sup>, </sup> [^RippleXrp]
   
-  Further, Kohli et al[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies by an order of up to 100,000 times more efficient compared to BitCoin, although there are other cryptocurrencies, such as Hedera, which are even more efficient than XRP.
+  Further, Kohli et al.,[^Kohli-2023] suggest XRP is significantly more energy efficient than other major cryptocurrencies by an order of up to 100,000 times compared to BitCoin. Although there are other cryptocurrencies, such as Hedera, which are even more efficient than XRP.
 
 		
    ![Figure 2: Energy consumption per transaction for various cryptocurrencies (and their consensus mechanisms)](./assets/crypto-energy-consumption.jpg)   
@@ -250,11 +250,13 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   
   Some of the negative comments posted on [Gartner Peer Insights](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple) about Ripple's blockchain product suggest it doesn't really support [smart contracts][def-smart-contract] like other blockchain solutions.[^gpr-726158]<sup>, </sup>[^gpr-842917]  
   
-  Upon further investigation using a search within [Ripple's website](https://www.ripple.com) for the term "smart contract" returned no results. A separate [Google Search restricted to the Ripple website](https://www.google.com/search?q=%22smart+contract%22+site%3Aripple.com) returned about 250 results, which of interest included:
+  Upon investigation of this claim, using a search within [Ripple's website](https://www.ripple.com) for the term "smart contract" indeed returned no results. However, a separate [Google Search restricted to the Ripple website](https://www.google.com/search?q=%22smart+contract%22+site%3Aripple.com) returned about 250 results, which of interest included:
   1. "Use an Escrow as a Smart Contract"[^xrplsc]; and
   1. "XRPL Hooks - Smart Contract proposal for the XRP Ledger"[^xrpl-hooks]
   
-    Recently, coincidently, a whitepaper for the Xahau Ledger titled ["The Smart Contract Sidechain for the XRPL Ecosystem"](https://github.com/Xahau/Whitepaper/blob/main/Xahau-Whitepaper.pdf) was released.
+    *(As a side note: perhaps Ripple's website search engine should be reindexed).*
+
+    Recently, coincidently, a whitepaper for the Xahau Ledger was released titled ["The Smart Contract Sidechain for the XRPL Ecosystem"](https://github.com/Xahau/Whitepaper/blob/main/Xahau-Whitepaper.pdf).
 
   Reddit user "lj23ft" states[^reddit]:
   > *"There are several businesses that have been waiting for these features and instead of waiting for Ripple they built a sidechain so they could get these features sooner."*
