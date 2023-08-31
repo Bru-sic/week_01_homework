@@ -374,87 +374,80 @@ The [XRP][^def-xrp] Ledger is an open-source, public, decentralized blockchain.[
 ## References
 <!-- Using Purdue Electronic Sources citation styles as per:
      https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_electronic_sources.html
-
-WEBPAGE OR PIECE OF ONLINE CONTENT
-  Lastname, F. M. (Year, Month Date). Title of page. Site name. URL
-
-
 -->
 
-
-<!-- WEBPAGE OR PIECE OF ONLINE CONTENT -->
 [^RippleAbout]: [Ripple Labs Inc. (2021). Intro to Ripple Fact Sheet. https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
 
 [^RippleCryptoIntro]: [Ripple Labs Inc. (2021). An introduction to Cryptocurrency. https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
 
 [^RippleFAQ]: [Ripple Labs Inc. (2023). Frequently Asked Questions https://ripple.com/faq/](https://ripple.com/faq/)
 
-[^RippleInsightsQ42022]: [Ripple Labs Inc. (30/1/2023) "Q4 2022 XRP Markets Report"](https://ripple.com/insights/q4-2022-xrp-markets-report/)
+[^RippleInsightsQ42022]: [Ripple Labs Inc. (2023, January 30). Q4 2022 XRP Markets Report. https://ripple.com/insights/q4-2022-xrp-markets-report/](https://ripple.com/insights/q4-2022-xrp-markets-report)
 
 
-[^RipplePR100]: [Ripple Labs Inc., "Ripple’s Blockchain Network Is Now More Than 100 Strong"](10/10/2017)(https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/)
+[^RipplePR100]: [Ripple Labs Inc. (2017, October 10). Ripple’s Blockchain Network Is Now More Than 100 Strong. https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/](https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/)
 
 
-[^RippleXrp]:[Ripple Labs Inc., XRP Overview, (24/08/23)](https://ripple.com/xrp/)
-
-[^CrunchBase]: [Crunchbase Inc., Ripple Financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
+[^RippleXrp]:[Ripple Labs Inc. (2023, August 24). XRP Overview. https://ripple.com/xrp/](https://ripple.com/xrp/)
 
 
-[^Bitcoin_Talk]: [McCaleb J., Bitcoin Forum, “Bitcoin without mining”, (27/05/2011)](https://bitcointalk.org/index.php?topic=10193.0)
-
-[^EYFlows]: [Ernst &amp; Young Global Ltd. (2021) "How new entrants are redefining cross-border payments"](https://www.ey.com/en_au/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments)
-
-[^FinCEN]: [U.S. Financial Crimes Enforcement Network, "FinCEN Fines Ripple Labs Inc. in First Civil Enforcement Action Against a Virtual Currency Exchanger", (05/05/2015) ](https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual)
-
-[^SECPR]: [Securities Exchange Commission, (22/12/2020) "SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering"](https://www.sec.gov/news/press-release/2020-338)
-
-[^HKLaw-1]: [Mascianica S., Magee J., McCarron Turner J. (20/07/2023) "SEC v. Ripple: When a Security Is Not a Security - Summary Judgment Battle Results in Split Decision, Blow to SEC Enforcement"](https://www.hklaw.com/en/insights/publications/2023/07/sec-v-ripple-when-a-security-is-not-a-security) 
-
-[^Torres]: [Torres A., United States District Court Southern District Of New York (13/07/2023) "Order on Case 1:20-cv-10832-AT-SN (SEC vs Ripple Labs et al) Document 874"](https://www.nysd.uscourts.gov/sites/default/files/2023-07/SEC%20vs%20Ripple%207-13-23.pdf)
-
-[^Reuters]: [Stempel J., Reuters (12/08/2023) "US SEC seeks to appeal Ripple Labs crypto decision" ](https://www.reuters.com/legal/us-sec-appeal-ripple-labs-court-ruling-2023-08-09/)
-
-[^SoS-NewCoin]: [Californian Secretary of State (19/09/2023) Articles of Incorporation #3505635 NewCoin Inc](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/187089170177186059061179244045225015102149150023)
-
-[^SoS-OpenCoin]: [Californian Secretary of State (3/10/2023) Certificate of Amendment #A0732979 Renamed to OpenCoin Inc](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/116067222226235006001172039135168044050121032046)
-
-[^SoS-Ripple]: [Californian Secretary of State (18/10/2023) Certificate of Amendment #A0747403 Renamed to Ripple Inc](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/076031074160242065134127075129213240171193013106)
-
-[^tracxn]: [Tracxn \(n.d.\) Ripple Founders](https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors)
-
-[^Kohli-2023]: [Kohli V. et al, (2023) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
-
-[^Stackshare]: [Ripple profile on stackshare.io (26/08/2023)](https://stackshare.io/ripple/ripple)
-
-[^RBA2020]: [Reserve Bank of Australia (2020) "Payments System Board Annual Report – 2020 Trends in Payments, Clearing and Settlement Systems"](https://www.rba.gov.au/publications/annual-reports/psb/2020/trends-in-payments-clearing-and-settlement-systems.html)
-
-[^TechTarget]: [Sheldon R. "A timeline and history of blockchain technology" (9/09/2021)](https://www.techtarget.com/whatis/feature/A-timeline-and-history-of-blockchain-technology)
-
-[^Gartner]: [Gartner "Ripple Alternatives" (2023)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/alternatives)
-
-[^xrplrefs]: [XRP Ledger References and APIs](https://xrpl.org/references.html)
-
-[^xrplsc]: [XRP Ledger Use an Escrow as a Smart Contract](https://xrpl.org/use-an-escrow-as-a-smart-contract.html)
-
-[^xrpl-hooks]: ["XRPL Hooks - Smart Contract proposal for the XRP Ledger"](https://xrpl-hooks.readme.io/)
-
-[^gpr-726158]: [Gartner Peer Review Forum, Anonymous, (20/01/2020)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/726158)
+[^CrunchBase]: [Ripple Labs Company Financials (n.d.) Crunchbase Inc. (2023, August 30). https://www.crunchbase.com/organization/ripple-labs/company_financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
 
+[^Bitcoin_Talk]: [McCaleb J., (2011, May 27). Bitcoin without mining. Bitcoin Forum. https://bitcointalk.org/index.php?topic=10193.0](https://bitcointalk.org/index.php?topic=10193.0)
 
-[^gpr-842917]: [Gartner Peer Review Forum, Anonymous, (24/04/2019)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/842917)
+[^EYFlows]: [Ernst &amp; Young Global Ltd. (2021). How new entrants are redefining cross-border payments. https://www.ey.com/en_au/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments](https://www.ey.com/en_au/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments)
+
+[^FinCEN]: [U.S. Financial Crimes Enforcement Network. (2015, May 5). FinCEN Fines Ripple Labs Inc. in First Civil Enforcement Action Against a Virtual Currency Exchanger. https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual](https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual)
+
+[^SECPR]: [Securities Exchange Commission, (2020, December 22). SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering. https://www.sec.gov/news/press-release/2020-338](https://www.sec.gov/news/press-release/2020-338)
+
+[^HKLaw-1]: [Mascianica S., Magee J., McCarron Turner J. (2023, July 20). SEC v. Ripple: When a Security Is Not a Security - Summary Judgment Battle Results in Split Decision, Blow to SEC Enforcement. https://www.hklaw.com/en/insights/publications/2023/07/sec-v-ripple-when-a-security-is-not-a-security](https://www.hklaw.com/en/insights/publications/2023/07/sec-v-ripple-when-a-security-is-not-a-security) 
+
+[^Torres]: [Torres A. (2023, July 13). Order on Case 1:20-cv-10832-AT-SN (SEC vs Ripple Labs et al) Document 874. United States District Court Southern District Of New York. https://www.nysd.uscourts.gov/sites/default/files/2023-07/SEC%20vs%20Ripple%207-13-23.pdf](https://www.nysd.uscourts.gov/sites/default/files/2023-07/SEC%20vs%20Ripple%207-13-23.pdf)
+
+[^Reuters]: [Stempel J. (2023, August 12). US SEC seeks to appeal Ripple Labs crypto decision. Reuters. https://www.reuters.com/legal/us-sec-appeal-ripple-labs-court-ruling-2023-08-09/](https://www.reuters.com/legal/us-sec-appeal-ripple-labs-court-ruling-2023-08-09/)
+
+[^SoS-NewCoin]: [Articles of Incorporation #3505635 NewCoin Inc. (2023 September 19). Californian Secretary of State (USA). https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/187089170177186059061179244045225015102149150023](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/187089170177186059061179244045225015102149150023)
+
+[^SoS-OpenCoin]: [Certificate of Amendment #A0732979 Renamed to OpenCoin Inc. (2023, October 3). Californian Secretary of State (USA). https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/116067222226235006001172039135168044050121032046](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/116067222226235006001172039135168044050121032046)
+
+[^SoS-Ripple]: [Certificate of Amendment #A0747403 Renamed to Ripple Inc. (2023, October 18). Californian Secretary of State (USA). https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/076031074160242065134127075129213240171193013106](https://bizfileonline.sos.ca.gov/api/report/GetImageByNum/076031074160242065134127075129213240171193013106)
+
+[^tracxn]: [Ripple Founders. (2023, August 17). Tracxn. https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors](https://tracxn.com/d/companies/ripple/__RI5NqNB2xmmrUkf5iftdStz97omfcqLLEWHh-AydmF8/founders-and-board-of-directors)
+
+[^Kohli-2023]: [Kohli V. et al. (2023). An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions. Digital Communications and Networks, Vol.(1), page 79-89. https://doi.org/10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
+
+[^Stackshare]: [Ripple Company Profile. (2023, August 26). Stackshare.io. https://stackshare.io/ripple/ripple](https://stackshare.io/ripple/ripple)
+
+[^RBA2020]: [Payments System Board Annual Report – 2020 Trends in Payments, Clearing and Settlement Systems. (2020). Reserve Bank of Australia. (https://www.rba.gov.au/publications/annual-reports/psb/2020/trends-in-payments-clearing-and-settlement-systems.html](https://www.rba.gov.au/publications/annual-reports/psb/2020/trends-in-payments-clearing-and-settlement-systems.html)
+
+[^TechTarget]: [Sheldon R. (2021, September 9). A timeline and history of blockchain technology. TechTarget. Retrieved 2023, August 31. https://www.techtarget.com/whatis/feature/A-timeline-and-history-of-blockchain-technology](https://www.techtarget.com/whatis/feature/A-timeline-and-history-of-blockchain-technology)
+
+[^Gartner]: [Ripple Alternatives. (2023). Gartner. https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/alternatives](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/alternatives)
+
+[^xrplrefs]: [XRP Ledger References and APIs. (n.d.). XRPL.ORG. Retrieved 2023, August 31. https://xrpl.org/references.html](https://xrpl.org/references.html)
+
+[^xrplsc]: [XRP Ledger Use an Escrow as a Smart Contract. (n.d.). XRPL.ORG. Retrieved 2023, August 31. https://xrpl.org/use-an-escrow-as-a-smart-contract.html](https://xrpl.org/use-an-escrow-as-a-smart-contract.html)
+
+[^xrpl-hooks]: [Hooks - Smart Contract proposal for the XRP Ledger. XRPL HOOKS. Retrieved 2023, August 31. https://xrpl-hooks.readme.io/](https://xrpl-hooks.readme.io/)
+
+[^gpr-726158]: [Peer Review for Ripple. (2020, January 20). Gartner Peer Insights. Retrieved 2023, August 31. https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/726158](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/726158)
 
 
-[^cryptocom]: [Crypto.com, "What Are Sidechains? Scaling Blockchain on the Side", (4/02/2021)](https://crypto.com/university/what-are-sidechains-scaling-blockchain#:~:text=A%20sidechain%20is%20a%20separate,the%20mainchain%20and%20the%20sidechain)
-
-[^investopedia-xrp]: [Investopedia, "What is XRP?" (1/08/2021)](https://www.investopedia.com/what-is-xrp-6362550)
-
-[^xrpl-xahau]: [XRP Ledger Foundation, "Hello Xahau" (28/08/2023)](https://foundation.xrpl.org/2023/08/28/hello-xahau/)
+[^gpr-842917]: [Peer Review for Ripple. (2019, April 24). Gartner Peer Insights. Retrieved 2023, August 31. https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/842917](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/842917)
 
 
-[^reddit]:[lj26ft, Reddit, "What does Xahau mean for XRP?", (29/08/2023)](https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-<!-- Blog -->
+[^cryptocom]: [What Are Sidechains? Scaling Blockchain on the Side. (2021, February 4). crypto.com. https://crypto.com/university/what-are-sidechains-scaling-blockchain](https://crypto.com/university/what-are-sidechains-scaling-blockchain)
 
-[^zion-sc]: [Zion Market Research, "Global Smart Contracts Market to grow around USD 9850 million by 2030", (3/03/2023)](https://www.zionmarketresearch.com/news/global-smart-contracts-market)
+[^investopedia-xrp]: [What is XRP?. (2021, August 1). Investopedia. https://www.investopedia.com/what-is-xrp-6362550](https://www.investopedia.com/what-is-xrp-6362550)
 
-[^wietse-h2]: [Wind W., DEV, "Hooked #2: Hooks & Security (Smart Contracts on the XRP ledger)", (14/11/2020)](https://dev.to/wietse/hooked-2-hooks-security-smart-contracts-on-the-xrp-ledger-83e)
+[^xrpl-xahau]: [Hello Xahau. (2023, August 2023). XRP Ledger Foundation. https://foundation.xrpl.org/2023/08/28/hello-xahau/](https://foundation.xrpl.org/2023/08/28/hello-xahau/)
+
+
+[^reddit]:[r/XRP \[lj26ft\]. (2023, August 29). What does Xahau mean for XRP?, Reddit, https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+
+[^zion-sc]: [Global Smart Contracts Market to grow around USD 9850 million by 2030. (2023, March 3). Zion Market Research. https://www.zionmarketresearch.com/news/global-smart-contracts-market](https://www.zionmarketresearch.com/news/global-smart-contracts-market)
+
+[^wietse-h2]: [Wind W., Hooked #2: Hooks & Security (Smart Contracts on the XRP ledger). (2020, November 14). DEV. https://dev.to/wietse/hooked-2-hooks-security-smart-contracts-on-the-xrp-ledger-83e](https://dev.to/wietse/hooked-2-hooks-security-smart-contracts-on-the-xrp-ledger-83e)
