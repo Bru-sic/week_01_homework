@@ -2,9 +2,10 @@
 <!-- Implementation notes
 The following features have been used in this markdown document:
   1. Basic Markdown: # Headings, unordered lists, ordered lists, hyperlinks, text styling (bold, italic etc), backslash escaping of special symbols, images (from this repository and external sources eg YouTube), line breaks, quotes, source comments
-  2. Enhanced / Advanced Markdown / HTML (note: some features only work on GitHub User Interface not Visual Studio Code): Footnotes, Accordion (HTML summary/details tags), Mouse-over for defined terms (HTML anchor tag), use of HTML entities (eg &nbsp; ), tables
+  2. Enhanced / Advanced Markdown / HTML (note: some features only work on GitHub User Interface not Visual Studio Code): Footnotes, Accordion (HTML summary/details tags), Mouse-over for defined terms (see aHTML anchor tag), use of HTML entities (eg &nbsp; ), tables
   3. User features: a disclaimer, a table of contents, a glossary of defined terms and acronyms, mouse-over for abbreviations.
 
+Acknowledgement goes to Brian Childress at https://brianchildress.co/variables-in-markdown/ and  John Gruber on https://daringfireball.net/projects/markdown/syntax#link for demonstrating the technique of variables in markdown through use of links. This approach stays more true to pure markdown versus the inital approach that had been taken using HTML anchor tags, eg: '<a href="#glossary-title">Glossary definition</a>', which also meant duplication of the definition text at each reference.
 
 TO DO:
 * technology stack include XRPL and its associated stacks
@@ -208,7 +209,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
   Despite its successes, Ripple has faced some significant legal challenges, which include:   
    * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act \(BSA\)[^FinCEN]   
-   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>, </sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
+   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>, </sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="[U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
 
 
 * *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*    
@@ -248,42 +249,32 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 * *If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)*   
 
   
-  Some of the negative comments posted on [Gartner Peer Insights](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple) about Ripple's blockchain / crypto product suggest it doesn't really support smart contracts like other blockchain solutions.[^gpr-726158]<sup>, </sup>[^gpr-842917]  
+  Some of the negative comments posted on [Gartner Peer Insights](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple) about Ripple's blockchain product suggest it doesn't really support [smart contracts][def-smart-contract] like other blockchain solutions.[^gpr-726158]<sup>, </sup>[^gpr-842917]  
   
-
-  https://www.coingecko.com/en/categories/smart-contract-platform
-
-
-  Further research indicates 
-
-
-  BREAKING NEWS!
-  https://cryptonews.net/news/altcoins/21497858/
-
-
-ipple/review/view/842917
-
-
-  https://u.today/new-xrp-token-xrp-unleashed-as-part-of-smart-contract-revolution-on-xrpl
-
-  Coincidently Ripple 
- It 
-
-  > B. Old Functioned \[ed. fashioned?\] programming experience,
+  Upon further investigation using a search within [Ripple's website](https://www.ripple.com) for the term "smart contract" returned no results. A separate [Google Search restricted to the Ripple website](https://www.google.com/search?q=%22smart+contract%22+site%3Aripple.com) returned about 250 results, which of interest included:
+  1. "Use an Escrow as a Smart Contract"[^xrplsc]; and
+  1. "XRPL Hooks - Smart Contract proposal for the XRP Ledger"[^xrpl-hooks]
   
-  Transaction fees are low but, you need to pay it for each transaction. if there is bulk fee it could be better.
+    Recently, coincidently, a whitepaper for the Xahau Ledger titled ["The Smart Contract Sidechain for the XRPL Ecosystem"](https://github.com/Xahau/Whitepaper/blob/main/Xahau-Whitepaper.pdf) was released.
 
+  Reddit user "lj23ft" states[^reddit]:
+  > *"There are several businesses that have been waiting for these features and instead of waiting for Ripple they built a sidechain so they could get these features sooner."*
 
-
-
-<p style="color:red; font-size:40px">---HERE BRU---</p>
-
+  
 * Why do you think that offering this product or service would benefit the company?
+
+  [Zion Market Research](https://www.zionmarketresearch.com/report/smart-contracts-market) suggests:   
+  > *in terms of revenue, the global smart contracts market size was valued at around USD 1750 million in 2022 and is projected to reach ***USD 9850 million***, by 2030*[^zion-sc]
+
+  Although Ripple is mentioned as a technology, its statistics are not, perhaps implying it is not a dominant player due to their current technology. XLR Ledger is not mentioned as a platform either.
+
 
 * What technologies would this additional product or service utilize?
 
-* Why are these technologies appropriate for your solution?
+  The service would use [XRPL Hooks](https://xrpl-hooks.readme.io/docs).
 
+* *Why are these technologies appropriate for your solution?*   
+Developed for the XRP Ledger, [hooks][def-hooks] work "on-chain" as opposed to other solutions which work "off-chain" or "side-chain", and depending on one's view, either the advantage or risk that "hooks have the ability to control, with atomicity and finality, the logical flow and execution of transactions on the accounts to which the hooks are configured".[^wietse-h2]
 
 ---
 
@@ -291,11 +282,15 @@ ipple/review/view/842917
 ## Glossary
 
 ### B2B
+[def-b2b]: #b2b "Business to Business."
+
 Business to Business.
 
 ---
 
 ### B2C
+[def-b2c]: #b2c "Business to Consumer."
+
 Business to Consumer.
 
 ---
@@ -319,6 +314,12 @@ Compound Annual Growth Rate.
 Central Bank Digital Currency.
 
 ---
+### Hooks
+[def-hooks]: #hooks "Small efficient web assembly modules that run on the XRP Ledger at Layer 1 (on-chain). This is distinct from Codius, Hot Pocket, Flare and other Layer 2 solutions (which are off-chain or side-chain)."
+
+Small efficient web assembly modules that run on the XRP Ledger at Layer 1 (on-chain). This is distinct from Codius, Hot Pocket, Flare and other Layer 2 solutions (which are off-chain or side-chain).[^wietse-h2]
+
+---
 
 ### ODL
 On Demand Liquidity.
@@ -330,17 +331,21 @@ Securities and Exchange Commission.
 
 ---
 
+### Sidechain
+[def-sidechain]: #sidechain "A separate, independent blockchain linked to the main blockchain (mainchain) using a two-way bridge. It enables tokens or other digital assets to be transferred between the mainchain and the sidechain."
+A separate, independent blockchain linked to the main blockchain (mainchain) using a two-way bridge. It enables tokens or other digital assets to be transferred between the mainchain and the sidechain.[^cryptocom]
+
+---
+
 ### Smart Contract
-[smart-contract]: ["A smart contract is a blockchain-based program that encodes the conditions and fulfillment of an agreement between two or more parties and automatically fulfills the terms of the agreement once conditions are met."]
+[def-smart-contract]: #smart-contract "A blockchain-based program that encodes the conditions and fulfillment of an agreement between two or more parties and automatically fulfills the terms of the agreement once conditions are met."
+A blockchain-based program that encodes the conditions and fulfillment of an agreement between two or more parties and automatically fulfills the terms of the agreement once conditions are met.[^xrplsc]
 
-This is my [random value] located somewhere in my Markdown document.
-
-[random value]: variable value
 
 ---
 
 ### XRP
-XRP is the cryptocurrency that is native to the XRP Ledger (<a title="The XRP Ledger is an open-source, public, decentralized blockchain" href="#xrpl">XRPL</a>).
+XRP is the cryptocurrency that is native to the XRP Ledger (<a title="The XRP Ledger is an open-source, public, decentralized blockchain" href="#xrpl">XRPL</a>).[^investopedia-xrp]
 
 ---
 
@@ -401,8 +406,27 @@ The <a title="XRP is the cryptocurrency that is native to the XRP Ledger" href="
 
 [^xrplrefs]: [XRP Ledger References and APIs](https://xrpl.org/references.html)
 
+[^xrplsc]: [XRP Ledger Use an Escrow as a Smart Contract](https://xrpl.org/use-an-escrow-as-a-smart-contract.html)
+
+[^xrpl-hooks]: ["XRPL Hooks - Smart Contract proposal for the XRP Ledger"](https://xrpl-hooks.readme.io/)
+
 [^gpr-726158]: [Gartner Peer Review Forum, Anonymous, (20/01/2020)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/726158)
+
+
 
 [^gpr-842917]: [Gartner Peer Review Forum, Anonymous, (24/04/2019)](https://www.gartner.com/reviews/market/blockchain-platforms/vendor/ripple/product/ripple/review/view/842917)
 
 
+[^cryptocom]: [Crypto.com, "What Are Sidechains? Scaling Blockchain on the Side", (4/02/2021)](https://crypto.com/university/what-are-sidechains-scaling-blockchain#:~:text=A%20sidechain%20is%20a%20separate,the%20mainchain%20and%20the%20sidechain)
+
+[^investopedia-xrp]: [Investopedia, "What is XRP?" (1/08/2021)](https://www.investopedia.com/what-is-xrp-6362550)
+
+[^xrpl-xahau]: [XRP Ledger Foundation, "Hello Xahau" (28/08/2023)](https://foundation.xrpl.org/2023/08/28/hello-xahau/)
+
+
+[^reddit]:[lj26ft, Reddit, "What does Xahau mean for XRP?", (29/08/2023)](https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+<!-- Blog -->
+
+[^zion-sc]: [Zion Market Research, "Global Smart Contracts Market to grow around USD 9850 million by 2030", (3/03/2023)](https://www.zionmarketresearch.com/news/global-smart-contracts-market)
+
+[^wietse-h2]: [Wind W., DEV, "Hooked #2: Hooks & Security (Smart Contracts on the XRP ledger)", (14/11/2020)](https://dev.to/wietse/hooked-2-hooks-security-smart-contracts-on-the-xrp-ledger-83e)
