@@ -16,7 +16,7 @@ TO DO:
 -->
 
 Author: Bruno Ivasic   
-Date: 29 August 2023  
+Date: 31 August 2023  
 
 **Disclaimer:** This case study is ***NOT*** intended to provide legal, financial or investment advice of any kind.
 
@@ -40,26 +40,26 @@ Ripple Labs Inc. ("Ripple").
 In short, 2011. The entity was initially incorporated as "NewCoin Inc."[^SoS-NewCoin] on 19 September 2012, then renamed to "OpenCoin Inc."[^SoS-OpenCoin] on 3 October 2012, and finally renamed to "Ripple Labs Inc."[^SoS-Ripple] on 18 October 2013.
 
 * *Who are the founders of the company?*   
-Chris Larsen and Jed McCaleb co-founded the company[^tracxn].
+Chris Larsen and Jed McCaleb co-founded the company.[^tracxn]
 
 * *How did the idea for the company (or project) come about?*   
- Chris attributes the idea for the company's key product, the XRP Ledger, originating in 2004 from the "Ripple Project" initially conceived by Ryan Fuger.
+ Larsen attributes the idea for the company's key product, the XRP Ledger, originating in 2004 from the "Ripple Project" initially conceived by Ryan Fuger.[^youtube-how]
 
-  In early 2011, three developers—David Schwartz, Jed McCaleb, and Arthur Britto—were fascinated with Bitcoin but observed the waste inherent in mining. They sought to create a more sustainable system for sending value (an idea outlined in a May 2011 forum post: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0))[^Bitcoin_Talk].
+  In early 2011, three developers—David Schwartz, Jed McCaleb, and Arthur Britto—were fascinated with Bitcoin but observed the waste inherent in mining. They sought to create a more sustainable system for sending value (an idea outlined in a May 2011 forum post: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0)).[^Bitcoin_Talk]
 
   [![Video clip placeholder of How Ripple Got Started, featuring Chris Larsen](https://img.youtube.com/vi/3zW_DN9pkbM/0.jpg)](https://www.youtube.com/watch?v=3zW_DN9pkbM)
 
 
 * *How is the company funded? How much funding have they received?*   
-    Ripple has raised a total of $293.8M in funding over 14 rounds between May 2015 to August 2021 from 43 different investors.[^CrunchBase]
+    Ripple has raised a total of US$293.8M in funding over 14 rounds between May 2015 to August 2021 from 43 different investors.[^CrunchBase]
 
 ## Business Activities:
 
 * *What specific financial problem is the company or project trying to solve?*   
-Ripple's crypto and blockchain solutions are designed to "move, manage and tokenize value" predominantly for the following use cases:
+Ripple's crypto and blockchain solutions are designed to "move, manage and tokenize value"[^RippleSolutions] predominantly for the following use cases:
    * Cross-Border Payments: Enable global money transfers
    * Crypto Liquidity: Source digital assets
-   * Central Bank Digital Currency: Implement <a title="Central Bank Digital Currencies" href="#cbdc">CBDCs</a>
+   * Central Bank Digital Currency: Implement [CBDCs][def-cbdc].
 
 * *Who is the company's intended customer?*   
   Ripple is mainly targeting business customers[^RippleAbout] such as banks and financial institutions, that in turn use Ripple solutions for various types of consumers. Some examples of these include:  
@@ -74,10 +74,10 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
     | Segment | Value | Notes |
     | :--- | :---: | :--- |
-    | [B2B][^def-b2b] | US$150t |Transactions make up the largest share by far.|
-    |<a title="Consumer-to-Business" href="#c2b">C2B</a>| US$2.8t |Cross-border e-commerce and offline tourism spend.|
-    |<a title="Business-to-Consumer" href="#b2c">B2C</a>| US$1.6t |Wage salaries or interest payments.|
-    |<a title="Consumer-to-Consumer" href="#c2c">C2C</a>| US$0.8t | Remittance payments.|
+    |[B2B][def-b2b]| US$150t |Transactions make up the largest share by far.|
+    |[C2B][def-c2b]| US$2.8t |Cross-border e-commerce and offline tourism spend.|
+    |[B2C][def-b2c]| US$1.6t |Wage salaries or interest payments.|
+    |[C2C][def-c2c]| US$0.8t | Remittance payments.|
 
     ***Table 1:*** Predicted global cross-border payment flow by segment.[^EYFlows]
 
@@ -384,6 +384,9 @@ The [XRP][def-xrp] Ledger is an open-source, public, decentralized blockchain.[^
 [^RippleInsightsQ42022]: [Ripple Labs Inc. (2023, January 30). Q4 2022 XRP Markets Report. https://ripple.com/insights/q4-2022-xrp-markets-report/](https://ripple.com/insights/q4-2022-xrp-markets-report)
 
 
+[^RippleSolutions]: [Ripple Labs Inc. (2023). Solutions https://ripple.com](https://ripple.com/)
+
+
 [^RipplePR100]: [Ripple Labs Inc. (2017, October 10). Ripple’s Blockchain Network Is Now More Than 100 Strong. https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/](https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/)
 
 
@@ -450,3 +453,5 @@ The [XRP][def-xrp] Ledger is an open-source, public, decentralized blockchain.[^
 [^zion-sc]: [Global Smart Contracts Market to grow around USD 9850 million by 2030. (2023, March 3). Zion Market Research. https://www.zionmarketresearch.com/news/global-smart-contracts-market](https://www.zionmarketresearch.com/news/global-smart-contracts-market)
 
 [^wietse-h2]: [Wind W., Hooked #2: Hooks & Security (Smart Contracts on the XRP ledger). (2020, November 14). DEV. https://dev.to/wietse/hooked-2-hooks-security-smart-contracts-on-the-xrp-ledger-83e](https://dev.to/wietse/hooked-2-hooks-security-smart-contracts-on-the-xrp-ledger-83e)
+
+[^youtube-how]: [Ripple. \(2018, March 10\). Ripple and XRP - Part 1: How Ripple Got Started (2018). YouTube. https://www.youtube.com/watch?v=3zW_DN9pkbM ](https://www.youtube.com/watch?v=3zW_DN9pkbM)
