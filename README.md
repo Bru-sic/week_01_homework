@@ -177,7 +177,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
     * A decline in cash transactions in favour of digital 
 
 * *What are the other major companies in this domain?*  
-   Other blockchain platform companies include[^Gartner]:
+   Some examples, amongst the many blockchain platform companies, include[^Gartner]:
    * IBM Blockchain
    * Ethereum
    * Stellar
@@ -191,7 +191,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 ## Results
 
 * *What has been the business impact of this company so far?*   
-  >RippleNet members and their customers — corporations and consumers alike — are increasingly reaping the benefits of instant, on-demand, certain and low-cost payments with Ripple solutions, ultimately sharpening their competitive edges. As more financial institutions join RippleNet, instant payments will reach more destinations and costs will further compress, enabling members to continuously improve their global payments services.[^RipplePR100]
+  >***RippleNet members and their customers — corporations and consumers alike — are increasingly reaping the benefits of instant, on-demand, certain and low-cost payments with Ripple solutions, ultimately sharpening their competitive edges. As more financial institutions join RippleNet, instant payments will reach more destinations and costs will further compress, enabling members to continuously improve their global payments services.***[^RipplePR100]
 
 
   So far, Ripple's accomplishments include:
@@ -199,7 +199,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
   * Ripple has over 300 business customers which continues to expand.
   * Ripple’s crypto-powered payment solution is available in nearly 40 payout markets, up from just three markets in 2020.  
 
-  Benefits claimed by some of Ripple's customers include:
+  Benefits claimed by some of Ripple's customers include[^RippleCustomers]:
     * 40% reduction in cross-border payment costs since MoneyMatch joined RippleNet.   
     * US$25M saved by Sentbe customers on foreign exchange conversion and transaction fees.
     * Payments via Modulr in less than 10 seconds.
@@ -208,7 +208,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
   Despite its successes, Ripple has faced some significant legal challenges, which include:   
    * A US$700,000 civil money penalty in 2015, which was the first against a virtual currency for willful violation of several requirements of the Bank Secrecy Act \(BSA\)[^FinCEN]   
-   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>, </sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="[U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling .[^Reuters]
+   * An action filed in 2022 by the <a title="U.S. Securities and Exchange Commission" href="#sec">SEC</a> charging Ripple and two executives with conducting a $1.3b unregistered securities offering.[^SECPR]  Although a landmark ruling in favor of Ripple was made in July 2023[^Torres]<sup>, </sup>[^HKLaw-1] for three of the four transaction types at issue, the <a title="[U.S. Securities and Exchange Commission" href="#sec">SEC</a> plans to appeal the court's ruling.[^Reuters]
 
 
 * *What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*    
@@ -381,6 +381,10 @@ The [XRP][def-xrp] Ledger is an open-source, public, decentralized blockchain.[^
 [^RippleFAQ]: [Ripple Labs Inc. (2023). Frequently Asked Questions https://ripple.com/faq/](https://ripple.com/faq/)
 
 [^RippleInsightsQ42022]: [Ripple Labs Inc. (2023, January 30). Q4 2022 XRP Markets Report. https://ripple.com/insights/q4-2022-xrp-markets-report/](https://ripple.com/insights/q4-2022-xrp-markets-report)
+
+
+[^RippleCustomers]: [Ripple Labs Inc. (2023). Customers. Retrieved 2023, August 31. https://ripple.com/customers/](https://ripple.com/customers/)
+
 
 
 [^RippleSolutions]: [Ripple Labs Inc. (2023). Solutions https://ripple.com](https://ripple.com/)
