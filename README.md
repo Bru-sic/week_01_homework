@@ -142,11 +142,11 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
       * [WordPress](https://wordpress.com/):  website builder and content management system.
       </details>
 
-
-  
+ 
       <details>
-      <summary>In addition, Ripple uses the XRP Ledger, which includes / uses the following technologies[^xrplrefs]:</summary>
-      
+      <summary>XRP Ledger</summary>
+      Source: xrpl.org[^xrplrefs]
+
       * [Python](https://www.python.org/)
       * [Java](https://www.oracle.com/java/): programming language / development platform.   
       * [JavaScript](https://developer.oracle.com/languages/javascript.html): programming language.   
