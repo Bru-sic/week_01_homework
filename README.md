@@ -358,8 +358,7 @@ A blockchain-based program that encodes the conditions and fulfillment of an agr
 ---
 
 ### XRP
-[def-xrp]: #xrp "XRP is the cryptocurrency that is native to the XRP Ledger". 
-
+[def-xrp]: #xrp "XRP is the cryptocurrency that is native to the XRP Ledger."
 XRP is the cryptocurrency that is native to the [XRP Ledger][^def-xrpl].[^investopedia-xrp]
 
 ---
@@ -445,7 +444,7 @@ The [XRP][^def-xrp] Ledger is an open-source, public, decentralized blockchain.[
 [^xrpl-xahau]: [Hello Xahau. (2023, August 2023). XRP Ledger Foundation. https://foundation.xrpl.org/2023/08/28/hello-xahau/](https://foundation.xrpl.org/2023/08/28/hello-xahau/)
 
 
-[^reddit]:[r/XRP \[lj26ft\]. (2023, August 29). What does Xahau mean for XRP?, Reddit, https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[^reddit]:[r/XRP \[lj26ft\]. (2023, August 29). What does Xahau mean for XRP? Reddit. https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/XRP/comments/1648zh0/what_does_xahau_mean_for_xrp/jy7ljp9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 
 [^zion-sc]: [Global Smart Contracts Market to grow around USD 9850 million by 2030. (2023, March 3). Zion Market Research. https://www.zionmarketresearch.com/news/global-smart-contracts-market](https://www.zionmarketresearch.com/news/global-smart-contracts-market)
