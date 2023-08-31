@@ -372,28 +372,39 @@ The [XRP][^def-xrp] Ledger is an open-source, public, decentralized blockchain.[
 ---
 
 ## References
-[^RippleAbout]: [Ripple Labs Inc. (2021) "Intro to Ripple Fact Sheet"](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
+<!-- Using Purdue Electronic Sources citation styles as per:
+     https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_electronic_sources.html
 
-[^RippleCryptoIntro]: [Ripple Labs Inc. (2021) "An introduction to Cryptocurrency"](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
+WEBPAGE OR PIECE OF ONLINE CONTENT
+  Lastname, F. M. (Year, Month Date). Title of page. Site name. URL
 
-[^RippleFAQ]: [Ripple Labs Inc. Frequently Asked Questions](https://ripple.com/faq/)
+
+-->
+
+
+<!-- WEBPAGE OR PIECE OF ONLINE CONTENT -->
+[^RippleAbout]: [Ripple Labs Inc. (2021). Intro to Ripple Fact Sheet. https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf](https://ripple.com/files/Intro-to-Ripple-Fact-Sheet.pdf)
+
+[^RippleCryptoIntro]: [Ripple Labs Inc. (2021). An introduction to Cryptocurrency. https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf](https://ripple.com/files/Intro-to-Crypto-Fact-Sheet.pdf)
+
+[^RippleFAQ]: [Ripple Labs Inc. (2023). Frequently Asked Questions https://ripple.com/faq/](https://ripple.com/faq/)
 
 [^RippleInsightsQ42022]: [Ripple Labs Inc. (30/1/2023) "Q4 2022 XRP Markets Report"](https://ripple.com/insights/q4-2022-xrp-markets-report/)
 
 
-[^RipplePR100]: [Ripple Labs Inc. "Ripple’s Blockchain Network Is Now More Than 100 Strong"](10/10/2017)(https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/)
+[^RipplePR100]: [Ripple Labs Inc., "Ripple’s Blockchain Network Is Now More Than 100 Strong"](10/10/2017)(https://ripple.com/ripple-press/ripples-blockchain-network-now-100-strong/)
 
 
-[^RippleXrp]:[Ripple Labs Inc. "XRP Overview"](https://ripple.com/xrp/)
+[^RippleXrp]:[Ripple Labs Inc., XRP Overview, (24/08/23)](https://ripple.com/xrp/)
 
-[^CrunchBase]: [Crunchbase Inc. - Ripple Financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
+[^CrunchBase]: [Crunchbase Inc., Ripple Financials](https://www.crunchbase.com/organization/ripple-labs/company_financials)
 
 
-[^Bitcoin_Talk]: [“Bitcoin without mining”](https://bitcointalk.org/index.php?topic=10193.0)
+[^Bitcoin_Talk]: [McCaleb J., Bitcoin Forum, “Bitcoin without mining”, (27/05/2011)](https://bitcointalk.org/index.php?topic=10193.0)
 
 [^EYFlows]: [Ernst &amp; Young Global Ltd. (2021) "How new entrants are redefining cross-border payments"](https://www.ey.com/en_au/banking-capital-markets/how-new-entrants-are-redefining-cross-border-payments)
 
-[^FinCEN]: [U.S. Financial Crimes Enforcement Network (05/05/2015) "FinCEN Fines Ripple Labs Inc. in First Civil Enforcement Action Against a Virtual Currency Exchanger" ](https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual)
+[^FinCEN]: [U.S. Financial Crimes Enforcement Network, "FinCEN Fines Ripple Labs Inc. in First Civil Enforcement Action Against a Virtual Currency Exchanger", (05/05/2015) ](https://www.fincen.gov/news/news-releases/fincen-fines-ripple-labs-inc-first-civil-enforcement-action-against-virtual)
 
 [^SECPR]: [Securities Exchange Commission, (22/12/2020) "SEC Charges Ripple and Two Executives with Conducting $1.3 Billion Unregistered Securities Offering"](https://www.sec.gov/news/press-release/2020-338)
 
@@ -413,7 +424,7 @@ The [XRP][^def-xrp] Ledger is an open-source, public, decentralized blockchain.[
 
 [^Kohli-2023]: [Kohli V. et al, (2023) "An analysis of energy consumption and carbon footprints of cryptocurrencies and possible solutions", Digital Communications and Networks, doi: 10.1016/j.dcan.2022.06.017](https://doi.org/10.1016/j.dcan.2022.06.017)
 
-[^Stackshare]: [Ripple profile on stackshare.io (26/08/2023](https://stackshare.io/ripple/ripple)
+[^Stackshare]: [Ripple profile on stackshare.io (26/08/2023)](https://stackshare.io/ripple/ripple)
 
 [^RBA2020]: [Reserve Bank of Australia (2020) "Payments System Board Annual Report – 2020 Trends in Payments, Clearing and Settlement Systems"](https://www.rba.gov.au/publications/annual-reports/psb/2020/trends-in-payments-clearing-and-settlement-systems.html)
 
