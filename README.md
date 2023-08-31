@@ -74,7 +74,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
     | Segment | Value | Notes |
     | :--- | :---: | :--- |
-    |<a title="Business-to-Business" href="#b2b">B2B</a>| US$150t |Transactions make up the largest share by far.|
+    | [B2B][^def-b2b] | US$150t |Transactions make up the largest share by far.|
     |<a title="Consumer-to-Business" href="#c2b">C2B</a>| US$2.8t |Cross-border e-commerce and offline tourism spend.|
     |<a title="Business-to-Consumer" href="#b2c">B2C</a>| US$1.6t |Wage salaries or interest payments.|
     |<a title="Consumer-to-Consumer" href="#c2c">C2C</a>| US$0.8t | Remittance payments.|
@@ -271,7 +271,7 @@ Ripple's crypto and blockchain solutions are designed to "move, manage and token
 
 * What technologies would this additional product or service utilize?
 
-  The service would use [XRPL Hooks](https://xrpl-hooks.readme.io/docs).
+  The service would use [XRPL Hooks][def-hooks] as documented on [xrpl-hooks.readme.io](https://xrpl-hooks.readme.io/docs).
 
 * *Why are these technologies appropriate for your solution?*   
 Developed for the XRP Ledger, [hooks][def-hooks] work "on-chain" as opposed to other solutions which work "off-chain" or "side-chain", and depending on one's view, either the advantage or risk that "hooks have the ability to control, with atomicity and finality, the logical flow and execution of transactions on the accounts to which the hooks are configured".[^wietse-h2]
@@ -296,24 +296,33 @@ Business to Consumer.
 ---
 
 ### C2B
+[def-c2b]: #c2b "Consumer to Business."
+
 Consumer to Business.
 
 ---
 
 ### C2C
+[def-c2c]: #c2c "Consumer to Consumer."
+
 Consumer to Consumer.
 
 ---
 
 ### CAGR
+[def-cagr]: #cagr "Compound Annual Growth Rate."
+
 Compound Annual Growth Rate.
 
 ---
 
 ### CBDC
+[def-cbdc]: #cbdc "Central Bank Digital Currency."
+
 Central Bank Digital Currency.
 
 ---
+
 ### Hooks
 [def-hooks]: #hooks "Small efficient web assembly modules that run on the XRP Ledger at Layer 1 (on-chain). This is distinct from Codius, Hot Pocket, Flare and other Layer 2 solutions (which are off-chain or side-chain)."
 
@@ -322,11 +331,15 @@ Small efficient web assembly modules that run on the XRP Ledger at Layer 1 (on-c
 ---
 
 ### ODL
+[def-odl]: #odl "On Demand Liquidity."
+
 On Demand Liquidity.
 
 ---
 
 ### SEC
+[def-sec]: #sec "Securities and Exchange Commission."
+
 Securities and Exchange Commission.
 
 ---
@@ -345,12 +358,16 @@ A blockchain-based program that encodes the conditions and fulfillment of an agr
 ---
 
 ### XRP
-XRP is the cryptocurrency that is native to the XRP Ledger (<a title="The XRP Ledger is an open-source, public, decentralized blockchain" href="#xrpl">XRPL</a>).[^investopedia-xrp]
+[def-xrp]: #xrp "XRP is the cryptocurrency that is native to the XRP Ledger". 
+
+XRP is the cryptocurrency that is native to the [XRP Ledger][^def-xrpl].[^investopedia-xrp]
 
 ---
 
 ### XRPL
-The <a title="XRP is the cryptocurrency that is native to the XRP Ledger" href="#xrp">XRP</a> Ledger is an open-source, public, decentralized blockchain.
+[def-xrpl]: #xrpl "The XRP Ledger is an open-source, public, decentralized blockchain."
+
+The [XRP][^def-xrp] Ledger is an open-source, public, decentralized blockchain.[^investopedia-xrp]
 
 ---
 
